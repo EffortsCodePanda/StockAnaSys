@@ -1,0 +1,3 @@
+SELECT * FROM stock_600280 WHERE TO_DAYS(NOW()) - TO_DAYS(daydate) <= 3000 and closingprice>0 order by closingprice Asc limit 1;   --寻找3000天内大于0的最低价格，0为停盘
+SELECT * FROM stock_600280 WHERE TO_DAYS(NOW()) - TO_DAYS(daydate) <= 1800 order by closingprice Desc limit 1;                     --寻找3000天内最高价格
+SELECT * FROM stock_600280 order by daydate Desc limit 1;                                                                              --寻找最接近今天的价格

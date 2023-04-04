@@ -1,0 +1,25 @@
+前提：验证是否正常启动mysql    --选做，正常情况是启动好的，下述操作是验证mysql是否正常
+a.进入 C:\Program Files\MYSQL\bin 目录
+b.在路径输入 cmd
+c.C:\Program Files\MYSQL\bin>mysql -u root -p   账号： root 密码: Test_123
+
+
+完整方法一：
+1.执行脚本：   --把excels表格下载入库
+F:\LearnFile\language\python\project\gupiao>python 20210508_getAllExcels.py
+
+2.执行脚本:   --把excels表格内容入库
+F:\LearnFile\language\python\project\gupiao>python 20210508_singleSaveExcelsToMysql.py
+
+3.执行脚本:   --按照自己的规则找到选中的股票
+F:\LearnFile\language\python\project\gupiao>python 20210508_stockAnalysisApp.py
+
+
+
+完整方法二：
+1.执行脚本：   --一条龙，直接输出结果
+F:\LearnFile\language\python\project\gupiao>python stockAnaSys.py
+
+
+
+只分析数据：
