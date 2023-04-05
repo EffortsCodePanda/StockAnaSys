@@ -3,7 +3,9 @@
 
 import akshare as ak
 
+'''
 stock_df = ak.stock_zh_a_hist(symbol='600519', period="daily", start_date='20220101', end_date='20220125', adjust="qfq")
+'''
 #print(stock_df)
 '''
        日期       开盘       收盘       最高       最低  ...           成交额    振幅   涨跌幅    涨跌额   换手率
@@ -41,13 +43,32 @@ for row in stock_df.iterrows():
     print(row[1])
 '''
 
-
+'''
 for rowTuple in stock_df.itertuples():
     print(type(rowTuple))
     print(rowTuple)
     print(getattr(rowTuple, '日期'))
     print(getattr(rowTuple, '开盘'))
 '''
+
+'''
 <class 'pandas.core.frame.Pandas'>
 Pandas(Index=0, 日期='2022-01-04', 开盘=2011.42, 收盘=2007.65, 最高=2025.37, 最低=1970.42, 成交量=33843, 成交额=6913653248.0,  振幅=2.74, 涨跌幅=0.06, 涨跌额=1.23, 换手率=0.27)
 '''
+
+stock_info_sh_code_name_df = ak.stock_info_sh_name_code()
+print(stock_info_sh_code_name_df)
+
+"""
+        公司代码  公司简称      代码    简称        上市日期
+0     600000  浦发银行  600000  浦发银行  1999-11-10
+1     600004  白云机场  600004  白云机场  2003-04-28
+2     600006  东风汽车  600006  东风汽车  1999-07-27
+"""
+
+for rowTuplesCode in stock_info_sh_code_name_df.itertuples():
+    stockCode = getattr(rowTuplesCode, "公司代码")
+    stockName = getattr(rowTuplesCode, "公司简称")
+    print(stockCode)
+    print(stockName)
+    break
