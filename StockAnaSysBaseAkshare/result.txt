@@ -1,0 +1,22 @@
+
+20230405: 
+stockeCode:600340     curr:2.4400   high28.0500  low2.1900  
+stockeCode:600606     curr:2.9100   high9.4500   low2.6200  
+stockeCode:600733     curr:5.9900   high19.2000  low5.3300  
+stockeCode:600753     curr:11.3800  high51.6900  low9.8400  
+stockeCode:600812     curr:6.0100   high18.8300  low5.6000  
+stockeCode:600918     curr:6.8500   high21.6300  low6.3100  
+stockeCode:601686     curr:6.1600   high18.5200  low5.4100  
+stockeCode:601696     curr:10.9500  high38.7000  low10.3800 
+stockeCode:601933     curr:3.4500   high11.2000  low2.9500  
+stockeCode:603079     curr:12.7900  high47.1700  low11.0900 
+stockeCode:603158     curr:7.1600   high28.1000  low6.5300  
+stockeCode:603226     curr:5.3700   high20.6700  low4.7400  
+stockeCode:603313     curr:10.7200  high47.6800  low9.1500  
+stockeCode:603336     curr:6.5500   high20.3000  low5.8100  
+stockeCode:603536     curr:6.6200   high23.2000  low6.0900  
+stockeCode:603608     curr:4.1900   high13.7000  low3.9200  
+stockeCode:603759     curr:9.5000   high41.8700  low8.5500  
+stockeCode:603815     curr:7.7900   high25.5200  low6.9400  
+stockeCode:603880     curr:5.7400   high22.2500  low4.8000  
+stockeCode:605100     curr:14.0600  high75.5800  low12.0900 
