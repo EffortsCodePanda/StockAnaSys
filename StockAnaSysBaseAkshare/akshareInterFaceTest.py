@@ -56,8 +56,11 @@ for rowTuple in stock_df.itertuples():
 Pandas(Index=0, 日期='2022-01-04', 开盘=2011.42, 收盘=2007.65, 最高=2025.37, 最低=1970.42, 成交量=33843, 成交额=6913653248.0,  振幅=2.74, 涨跌幅=0.06, 涨跌额=1.23, 换手率=0.27)
 '''
 
+"""
 stock_info_sh_code_name_df = ak.stock_info_sh_name_code()
 print(stock_info_sh_code_name_df)
+"""
+
 
 """
         公司代码  公司简称      代码    简称        上市日期
@@ -65,10 +68,24 @@ print(stock_info_sh_code_name_df)
 1     600004  白云机场  600004  白云机场  2003-04-28
 2     600006  东风汽车  600006  东风汽车  1999-07-27
 """
-
+"""
 for rowTuplesCode in stock_info_sh_code_name_df.itertuples():
     stockCode = getattr(rowTuplesCode, "公司代码")
     stockName = getattr(rowTuplesCode, "公司简称")
     print(stockCode)
     print(stockName)
     break
+"""
+
+
+"""
+stock_info_sz_code_name_df = ak.stock_info_sz_name_code()
+for rowTuplesCode in stock_info_sz_code_name_df.itertuples():
+    print(rowTuplesCode)
+    break
+"""
+
+"""
+Pandas(Index=0, 板块='主板', A股代码='000001', A股简称='平安银行', A股上市日期='1991-04-03', A股总股本='19,405,918,198', A股流
+通股本='19,405,534,450', 所属行业='J 金融业')
+"""

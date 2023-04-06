@@ -20,3 +20,46 @@ stockeCode:603759     curr:9.5000   high41.8700  low8.5500
 stockeCode:603815     curr:7.7900   high25.5200  low6.9400  
 stockeCode:603880     curr:5.7400   high22.2500  low4.8000  
 stockeCode:605100     curr:14.0600  high75.5800  low12.0900 
+
+20230406: 
+stockeCode:600340     stockeName:????                 curr:2.4400   high28.0500  low2.1900  
+stockeCode:600606     stockeName:????                 curr:2.9100   high9.4500   low2.6200  
+stockeCode:600733     stockeName:????                 curr:5.9900   high19.2000  low5.3300  
+stockeCode:600753     stockeName:????                 curr:11.3800  high51.6900  low9.8400  
+stockeCode:600812     stockeName:????                 curr:6.0100   high18.8300  low5.6000  
+stockeCode:600918     stockeName:????                 curr:6.8500   high21.6300  low6.3100  
+stockeCode:601686     stockeName:????                 curr:6.1600   high18.5200  low5.4100  
+stockeCode:601696     stockeName:????                 curr:10.9500  high38.7000  low10.3800 
+stockeCode:601933     stockeName:????                 curr:3.4500   high11.2000  low2.9500  
+stockeCode:603079     stockeName:????                 curr:12.7900  high47.1700  low11.0900 
+stockeCode:603158     stockeName:????                 curr:7.1600   high28.1000  low6.5300  
+stockeCode:603226     stockeName:????                 curr:5.3700   high20.6700  low4.7400  
+stockeCode:603313     stockeName:???                  curr:10.7200  high47.6800  low9.1500  
+stockeCode:603336     stockeName:????                 curr:6.5500   high20.3000  low5.8100  
+stockeCode:603536     stockeName:????                 curr:6.6200   high23.2000  low6.0900  
+stockeCode:603608     stockeName:????                 curr:4.1900   high13.7000  low3.9200  
+stockeCode:603759     stockeName:????                 curr:9.5000   high41.8700  low8.5500  
+stockeCode:603815     stockeName:????                 curr:7.7900   high25.5200  low6.9400  
+stockeCode:603880     stockeName:????                 curr:5.7400   high22.2500  low4.8000  
+stockeCode:605100     stockeName:????                 curr:14.0600  high75.5800  low12.0900 
+stockeCode:000038     stockeName:*ST??                curr:4.1400   high17.2700  low3.6300   modelL ????              
+stockeCode:000718     stockeName:????                 curr:3.0400   high11.0900  low2.8700   modelK ???               
+stockeCode:000889     stockeName:ST??                 curr:1.9300   high14.4000  low1.7400   modelI ????              
+stockeCode:001209     stockeName:????                 curr:14.0400  high47.3300  low12.6000  modelC ???               
+stockeCode:002075     stockeName:????                 curr:4.1100   high16.7000  low3.7300   modelC ???               
+stockeCode:002084     stockeName:????                 curr:4.3600   high14.1900  low3.6900   modelC ???               
+stockeCode:002089     stockeName:*ST??                curr:0.9100   high3.1900   low0.8600   modelC ???               
+stockeCode:002124     stockeName:????                 curr:5.8700   high20.7000  low5.3800   modelA ????              
+stockeCode:002127     stockeName:????                 curr:4.9200   high23.8100  low4.2200   modelL ????              
+stockeCode:002187     stockeName:????                 curr:6.7400   high20.6400  low6.3100   modelF ????              
+stockeCode:002375     stockeName:????                 curr:4.7400   high16.1500  low4.2500   modelE ???               
+stockeCode:002382     stockeName:????                 curr:7.8100   high37.8800  low7.3500   modelC ???               
+stockeCode:002414     stockeName:????                 curr:12.5500  high50.0500  low10.6300  modelC ???               
+stockeCode:002456     stockeName:???                  curr:5.4200   high23.3300  low4.6800   modelC ???               
+stockeCode:002481     stockeName:????                 curr:5.9400   high20.1200  low5.2900   modelC ???               
+stockeCode:002607     stockeName:????                 curr:4.6500   high43.1000  low3.9200   modelP ??                
+stockeCode:002647     stockeName:????                 curr:6.6800   high64.2500  low5.7400   modelJ ???               
+stockeCode:002798     stockeName:????                 curr:7.4000   high44.4300  low6.5700   modelC ???               
+stockeCode:002950     stockeName:????                 curr:11.9500  high38.2000  low10.3600  modelC ???               
+stockeCode:002953     stockeName:????                 curr:11.9100  high37.1800  low10.2300  modelC ???               
+stockeCode:002969     stockeName:????                 curr:3.8700   high11.9900  low3.6000   modelC ???               
