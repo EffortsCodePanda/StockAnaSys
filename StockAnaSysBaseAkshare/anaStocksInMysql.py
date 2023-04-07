@@ -15,24 +15,24 @@ def getFile():
 	filepath = currPath + "\\result.txt"
 	if not os.path.exists(filepath):
 		print('create file')
-		file = open('result.txt','w+')
+		file = open('result.txt','w+', encoding="utf-8") #不加utf-8,写进去之后会乱码
 		file.write('\n' + _todayTime + ': \n')
 		return file
 
-	f1 = open(filepath, 'a')
+	f1 = open(filepath, 'a', encoding="utf-8")
 	print('use exist file')
 	f1.write('\n' + _todayTime + ': \n')
 	return f1
 
 #获取所有以6开头的股票代码的集合 600001,600002等等,写死遍历获得
 def getAllShStockCode(): #得到沪市的股票
-	for i in range(0,5599):
+	for i in range(1,5599): #5599
 		item = 600000+i
 		__ShCodeList.append(item)
 
 #获取所有以6开头的股票代码的集合 600001,600002等等,写死遍历获得
 def getAllSzStockCode(): #得到沪市的股票
-	for i in range(1,3999):
+	for i in range(1,3599): #3599
 		item = str(i).zfill(6)  #000001  #item = "000000"+i error
 		__SzCodeList.append(item)
 
@@ -48,7 +48,7 @@ def getSpecStocks():
 	#fileName = '600280'
 
 	# SQL 查询语句
-	sqlSentence2 = "use stockDataBase;"
+	sqlSentence2 = "use stockDb;"
 	cursor.execute(sqlSentence2)
 	getAllShStockCode()
 	getAllSzStockCode()
@@ -60,7 +60,7 @@ def getSpecStocks():
 	lowPrice = 0.0
 	stockMode = "NULL"
 	stockName = "NULL"
-
+	_file.write('------------------------------------沪市分析开始------------------------------------------\n')
 	for code in __ShCodeList:
 		#找出当前价格
 		sql = "SELECT * FROM stock_%s" %code + " order by daydate Desc limit 1;"
@@ -93,6 +93,7 @@ def getSpecStocks():
 			for row in results:
 				lowPrice = row[3]
 				stockName = row[1]
+				#print("沪市名称：%s" %stockName)
 				# 打印结果
 				#print ("lowPrice=%s" % lowPrice)
 		except:
@@ -128,10 +129,11 @@ def getSpecStocks():
 			continue
 		str = "stockeCode:%-10s stockeName:%-20s curr:%-8.4f high%-8.4f low%-8.4f" %(code,stockName,currPrice,highPrice,lowPrice)
 		_file.write(str + '\n')
-
 		#print ("stockeCode:%-10s curr:%-8.4f high%-8.4f low%-8.4f" %(code,currPrice,highPrice,lowPrice))
+	_file.write('------------------------------------沪市分析结束------------------------------------------\n')
 
 
+	_file.write('------------------------------------深市分析开始------------------------------------------\n')
 	for code in __SzCodeList:
 		#找出当前价格
 		sql = "SELECT * FROM stock_%s" %code + " order by daydate Desc limit 1;"
@@ -142,9 +144,12 @@ def getSpecStocks():
 			# 获取所有记录列表
 			results = cursor.fetchall()
 			for row in results:
+				#print(row)
 				currPrice = row[3]
 				stockMode = row[7]
+				#print(stockMode)
 				stockName = row[1]
+				#print(stockName)
 				# 打印结果
 				#print ("currPrice=%s" % currPrice)
 		except:
@@ -182,7 +187,7 @@ def getSpecStocks():
 			for row in results:
 				highPrice = row[3]
 				# 打印结果
-				#print ("highPrice=%s" % highPrice) 
+				#print ("highPrice=%s" % highPrice)
 		except:
 			print ("Error: unable to fetch data")
 			continue
@@ -200,9 +205,9 @@ def getSpecStocks():
 			continue
 		str = "stockeCode:%-10s stockeName:%-20s curr:%-8.4f high%-8.4f low%-8.4f model%-20s" %(code,stockName,currPrice,highPrice,lowPrice,stockMode)
 		_file.write(str + '\n')
-
 		#print ("stockeCode:%-10s curr:%-8.4f high%-8.4f low%-8.4f" %(code,currPrice,highPrice,lowPrice))
 
+	_file.write('------------------------------------深市分析结束------------------------------------------\n')
 
 	_file.close()
 

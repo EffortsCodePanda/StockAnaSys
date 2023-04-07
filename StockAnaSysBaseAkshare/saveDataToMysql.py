@@ -5,8 +5,9 @@ import pymysql
 import akshare as ak
 import time
 
-sqlCrtDateBase = "create database if not exists stockDataBase;"
-sqlEntryDateBase = "use stockDataBase;"
+#stockDataBase
+sqlCrtDateBase = "create database if not exists stockDb;"
+sqlEntryDateBase = "use stockDb;"
 # sqlDropTable = "drop table if exists stock_%s;"
 # sqlCrtTableName = "create table stock_%s" 
 # sqlCrtTableCols = "(stockcode VARCHAR(10), name VARCHAR(10), daydate date, \
@@ -18,11 +19,15 @@ def saveSHDataFromAkshareRsp():
     cursor = db.cursor()
     cursor.execute(sqlCrtDateBase)#选择使用当前数据库
     cursor.execute(sqlEntryDateBase)
+    count = 0
 
     _todayTime = time.strftime("%Y%m%d",(time.localtime()));
 
     stock_info_sh_code_name_df = ak.stock_info_sh_name_code()
     for rowTuplesCode in stock_info_sh_code_name_df.itertuples():
+        count = count+1
+        if (0 == count % 500):
+            time.sleep(3)  #每下载500条数据，休眠3s
         stockCode = getattr(rowTuplesCode, "公司代码")
         stockName = getattr(rowTuplesCode, "公司简称")
 
@@ -67,13 +72,19 @@ def saveSzDataFromAkshareRsp():
     cursor = db.cursor()
     cursor.execute(sqlCrtDateBase)#选择使用当前数据库
     cursor.execute(sqlEntryDateBase)
+    count = 0
 
     _todayTime = time.strftime("%Y%m%d",(time.localtime()));
 
     stock_info_sz_code_name_df = ak.stock_info_sz_name_code()
     for rowTuplesCode in stock_info_sz_code_name_df.itertuples():
+        count = count+1
+        if (0 == count % 500):
+            time.sleep(3)  #每下载500条数据，休眠3s
+
         stockCode = getattr(rowTuplesCode, "A股代码")
-        if (stockCode<"300000"): #创业板的先不入库，节省时间
+        if (stockCode>"300000"): #创业板的先不入库，节省时间
+            print("创业板不入库")
             break
 
         # if (stockCode<"002212"): #有时候会被禁掉，从之前断掉的地方开始，第一次跑的时候，这边要注释掉
@@ -119,5 +130,9 @@ def saveSzDataFromAkshareRsp():
     db.close()
     print("all shanghai stock the ending......")
 
-#saveSHDataFromAkshareRsp()
-saveSzDataFromAkshareRsp()
+if __name__ == "__main__":
+    print("保存沪市股票开始......")
+    saveSHDataFromAkshareRsp()
+    print("保存深市股票开始......")
+    saveSzDataFromAkshareRsp()
+

@@ -3,8 +3,8 @@
 
 import pymysql
 
-sqlCrtDateBase = "create database if not exists testBase;"
-sqlEntryDateBase = "use testBase;"
+sqlCrtDateBase = "create database if not exists testDb;"
+sqlEntryDateBase = "use testDb;"
 sqlDropTable = "drop table if exists stock600015;"
 
 db = pymysql.connect(host='localhost', user='root', password= 'Test_123', charset='utf8')  #现在必须指定参数
@@ -20,6 +20,12 @@ cursor.execute(sqlSentence3)
 sqlSentence4 = "insert into stock600015(stockcode, name, daydate, closingprice, highestprice, lowestprice, openingprice)\
             values ('600015','中国茅台','20230405',1800,1900,1700.2,1800)"
 cursor.execute(sqlSentence4)
+
+sqlSentence5 = "select * from stock600015"
+cursor.execute(sqlSentence5)
+data = cursor.fetchall()
+for record in data:
+   print(record)
 
 #关闭游标，提交，关闭数据库连接
 cursor.close()
