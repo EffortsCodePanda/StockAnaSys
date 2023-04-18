@@ -196,13 +196,13 @@ def getSpecStocks():
 		if (currPrice > 15.0):
 			continue
 
-		if (highPrice/currPrice < 3.0):
-			continue
+		# if (highPrice/currPrice < 3.0):
+		# 	continue
 
 		if (currPrice/lowPrice > 1.2):
 			continue
-		if (currPrice/lowPrice < 1.05):
-			continue
+		# if (currPrice/lowPrice < 1.05):
+		# 	continue
 		str = "stockeCode:%-10s stockeName:%-20s curr:%-8.4f high%-8.4f low%-8.4f model%-20s" %(code,stockName,currPrice,highPrice,lowPrice,stockMode)
 		_file.write(str + '\n')
 		#print ("stockeCode:%-10s curr:%-8.4f high%-8.4f low%-8.4f" %(code,currPrice,highPrice,lowPrice))

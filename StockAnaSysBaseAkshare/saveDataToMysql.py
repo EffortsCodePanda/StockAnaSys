@@ -87,7 +87,7 @@ def saveSzDataFromAkshareRsp():
             print("创业板不入库")
             break
 
-        # if (stockCode<"002212"): #有时候会被禁掉，从之前断掉的地方开始，第一次跑的时候，这边要注释掉
+        # if (stockCode<"000669"): #有时候会被禁掉，从之前断掉的地方开始，第一次跑的时候，这边要注释掉
         #     continue
         stockName = getattr(rowTuplesCode, "A股简称")
         stockModel = getattr(rowTuplesCode, "所属行业")
@@ -128,7 +128,7 @@ def saveSzDataFromAkshareRsp():
     cursor.close()
     db.commit()
     db.close()
-    print("all shanghai stock the ending......")
+    print("all shenzhen stock the ending......")
 
 if __name__ == "__main__":
     print("保存沪市股票开始......")

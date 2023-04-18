@@ -89,3 +89,53 @@ for rowTuplesCode in stock_info_sz_code_name_df.itertuples():
 Pandas(Index=0, 板块='主板', A股代码='000001', A股简称='平安银行', A股上市日期='1991-04-03', A股总股本='19,405,918,198', A股流
 通股本='19,405,534,450', 所属行业='J 金融业')
 """
+
+"""
+stock_dividents_cninfo_df = ak.stock_dividents_cninfo(symbol="002075")   #可以使用-分红的接口
+for rowTuples in stock_dividents_cninfo_df.itertuples():
+    print(rowTuples)
+    print(getattr(rowTuples, "实施方案公告日期")) #2022-05-31
+    break
+"""
+
+
+"""
+Pandas(Index=0, 实施方案公告日期=datetime.date(2022, 5, 31), 送股比例=nan, 转增比例=nan, 派息比例=0.8, 股权登记日=datetime.date(2022, 6, 7), 除权日=datetime.date(2022, 6, 8), 派息日=datetime.date(2022, 6, 8), 股份到账日='', 实施方案分红说明='10派0.8元(含税)', 分红类型='年度分红', 报告时间='2021年报')
+Pandas(Index=1, 实施方案公告日期=datetime.date(2021, 5, 11), 送股比例=nan, 转增比例=nan, 派息比例=1.0, 股权登记日=datetime.date(2021, 5, 17), 除权日=datetime.date(2021, 5, 18), 派息日=datetime.date(2021, 5, 18), 股份到账日='', 实施方案分红说明='10派1元( 含税)', 分红类型='年度分红', 报告时间='2020年报')
+Pandas(Index=2, 实施方案公告日期=datetime.date(2020, 6, 5), 送股比例=nan, 转增比例=nan, 派息比例=1.002034, 股权登记日=datetime.date(2020, 6, 10), 除权日=datetime.date(2020, 6, 11), 派息日=datetime.date(2020, 6, 11), 股份到账日='', 实施方案分红说明='10派1.002034元(含税)', 分红类型='年度分红', 报告时间='2019年报')
+Pandas(Index=3, 实施方案公告日期=datetime.date(2019, 4, 19), 送股比例=nan, 转增比例=nan, 派息比例=0.3, 股权登记日=datetime.date(2019, 4, 24), 除权日=datetime.date(2019, 4, 25), 派息日=datetime.date(2019, 4, 25), 股份到账日='', 实施方案分红说明='10派0.3元(含税)', 分红类型='年度分红', 报告时间='2018年报')
+Pandas(Index=4, 实施方案公告日期=datetime.date(2018, 9, 4), 送股比例=nan, 转增比例=nan, 派息比例=0.3, 股权登记日=datetime.date(2018, 9, 7), 除权日=datetime.date(2018, 9, 10), 派息日=datetime.date(2018, 9, 10), 股份到账日='', 实施方案分红说明='10派0.3元（含税）', 分红类型='中期分红', 报告时间='2018半年报')
+Pandas(Index=5, 实施方案公告日期=datetime.date(2015, 10, 9), 送股比例=nan, 转增比例=4.0, 派息比例=nan, 股权登记日=datetime.date(2015, 10, 15), 除权日=datetime.date(2015, 10, 16), 派息日=NaT, 股份到账日='2015-10-16', 实施方案分红说明='10转增4股', 分红类型='中期分红', 报告时间='2015半年报')
+Pandas(Index=6, 实施方案公告日期=datetime.date(2007, 5, 30), 送股比例=3.0, 转增比例=7.0, 派息比例=0.4, 股权登记日=datetime.date(2007, 6, 5), 除权日=datetime.date(2007, 6, 6), 派息日=datetime.date(2007, 6, 6), 股份到账日='2007-06-06', 实施方案分红说明='10送3转增7股派0.4元（含税）', 分红类型='年度分红', 报告时间='2006年报')
+"""
+
+#stock_a_indicator_df = ak.stock_a_indicator_lg(symbol="002075")   #not has
+
+"""
+get_bond_bank_df = ak.get_bond_bank(page_num=1) #没啥用
+print(get_bond_bank_df)
+for rowTuples in get_bond_bank_df.itertuples():
+    print(rowTuples)
+    break
+
+   firstIssueAmount isReg                                 regFileName regPrdtType          releaseTime projPhase
+0                10     1      青岛全球财富中心开发建设有限公司关于发行2023年度第一期中期票据的注册报告         MTN  2023-04-14 19:48:28        20
+1                 5     1        泰州华诚医学投资集团有限公司关于发行2023年度第一期中期票据的注册报告         MTN  2023-04-14 18:36:27        30
+
+"""
+
+"""
+bond_zh_hs_spot_df = ak.bond_zh_hs_spot()
+for rowTuples in bond_zh_hs_spot_df.itertuples():
+    print(rowTuples)
+    break
+"""
+
+bond_zh_hs_cov_spot_df = ak.bond_zh_hs_cov_spot()
+print(bond_zh_hs_cov_spot_df)
+for rowTuples in bond_zh_hs_cov_spot_df.itertuples():
+    print(rowTuples)
+    print(getattr(rowTuples, "symbol"))
+    print(getattr(rowTuples, "code"))
+    print(getattr(rowTuples, "name"))
+    break
