@@ -131,11 +131,36 @@ for rowTuples in bond_zh_hs_spot_df.itertuples():
     break
 """
 
-bond_zh_hs_cov_spot_df = ak.bond_zh_hs_cov_spot()
-print(bond_zh_hs_cov_spot_df)
-for rowTuples in bond_zh_hs_cov_spot_df.itertuples():
-    print(rowTuples)
-    print(getattr(rowTuples, "symbol"))
-    print(getattr(rowTuples, "code"))
-    print(getattr(rowTuples, "name"))
+# bond_zh_hs_cov_spot_df = ak.bond_zh_hs_cov_spot() #可转债的接口
+# print(bond_zh_hs_cov_spot_df)
+# for rowTuples in bond_zh_hs_cov_spot_df.itertuples():
+#     print(rowTuples)
+#     print(getattr(rowTuples, "symbol"))
+#     print(getattr(rowTuples, "code"))
+#     print(getattr(rowTuples, "name"))
+#     break
+
+"""
+[492 rows x 15 columns]
+Pandas(Index=0, symbol='sh110043', name='无锡转债', trade='113.255', pricechange='0.466', changepercent='0.413', buy='113.230', sell='113.250', settlement='112.789', open='112.791', high='113.298', low='112.791', volume=530990, amount=60004294, code='110043', ticktime='15:00:01')
+sh110043
+110043
+无锡转债
+"""
+
+stock_info_sz_code_name_df = ak.stock_info_sz_name_code()   #看看创业板数据
+for rowTuplesCode in stock_info_sz_code_name_df.itertuples():
+    stockCode = getattr(rowTuplesCode, "A股代码")
+    if (stockCode<"300000"):
+        continue
+
+    print(rowTuplesCode)
+
+    stockCode = getattr(rowTuplesCode, "A股代码")
+    stockName = getattr(rowTuplesCode, "A股简称")
+    stockModel = getattr(rowTuplesCode, "所属行业")
     break
+
+"""
+Pandas(Index=1514, 板块='创业板', A股代码='300001', A股简称='特锐德', A股上市日期='2009-10-30', A股总股本='1,040,710,713', A股流通股本='1,027,946,320', 所属行业='C 制造业')
+"""

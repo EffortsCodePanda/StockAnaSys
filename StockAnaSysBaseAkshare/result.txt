@@ -20,97 +20,6 @@ stockeCode:603815     curr:7.7900   high25.5200  low6.9400
 stockeCode:603880     curr:5.7400   high22.2500  low4.8000  
 stockeCode:605100     curr:14.0600  high75.5800  low12.0900 
 
-20230406: 
-stockeCode:600340     stockeName:????                 curr:2.4400   high28.0500  low2.1900  
-stockeCode:600606     stockeName:????                 curr:2.9100   high9.4500   low2.6200  
-stockeCode:600733     stockeName:????                 curr:5.9900   high19.2000  low5.3300  
-stockeCode:600753     stockeName:????                 curr:11.3800  high51.6900  low9.8400  
-stockeCode:600812     stockeName:????                 curr:6.0100   high18.8300  low5.6000  
-stockeCode:600918     stockeName:????                 curr:6.8500   high21.6300  low6.3100  
-stockeCode:601686     stockeName:????                 curr:6.1600   high18.5200  low5.4100  
-stockeCode:601696     stockeName:????                 curr:10.9500  high38.7000  low10.3800 
-stockeCode:601933     stockeName:????                 curr:3.4500   high11.2000  low2.9500  
-stockeCode:603079     stockeName:????                 curr:12.7900  high47.1700  low11.0900 
-stockeCode:603158     stockeName:????                 curr:7.1600   high28.1000  low6.5300  
-stockeCode:603226     stockeName:????                 curr:5.3700   high20.6700  low4.7400  
-stockeCode:603313     stockeName:???                  curr:10.7200  high47.6800  low9.1500  
-stockeCode:603336     stockeName:????                 curr:6.5500   high20.3000  low5.8100  
-stockeCode:603536     stockeName:????                 curr:6.6200   high23.2000  low6.0900  
-stockeCode:603608     stockeName:????                 curr:4.1900   high13.7000  low3.9200  
-stockeCode:603759     stockeName:????                 curr:9.5000   high41.8700  low8.5500  
-stockeCode:603815     stockeName:????                 curr:7.7900   high25.5200  low6.9400  
-stockeCode:603880     stockeName:????                 curr:5.7400   high22.2500  low4.8000  
-stockeCode:605100     stockeName:????                 curr:14.0600  high75.5800  low12.0900 
-stockeCode:000038     stockeName:*ST??                curr:4.1400   high17.2700  low3.6300   modelL ????              
-stockeCode:000718     stockeName:????                 curr:3.0400   high11.0900  low2.8700   modelK ???               
-stockeCode:000889     stockeName:ST??                 curr:1.9300   high14.4000  low1.7400   modelI ????              
-stockeCode:001209     stockeName:????                 curr:14.0400  high47.3300  low12.6000  modelC ???               
-stockeCode:002075     stockeName:????                 curr:4.1100   high16.7000  low3.7300   modelC ???               
-stockeCode:002084     stockeName:????                 curr:4.3600   high14.1900  low3.6900   modelC ???               
-stockeCode:002089     stockeName:*ST??                curr:0.9100   high3.1900   low0.8600   modelC ???               
-stockeCode:002124     stockeName:????                 curr:5.8700   high20.7000  low5.3800   modelA ????              
-stockeCode:002127     stockeName:????                 curr:4.9200   high23.8100  low4.2200   modelL ????              
-stockeCode:002187     stockeName:????                 curr:6.7400   high20.6400  low6.3100   modelF ????              
-stockeCode:002375     stockeName:????                 curr:4.7400   high16.1500  low4.2500   modelE ???               
-stockeCode:002382     stockeName:????                 curr:7.8100   high37.8800  low7.3500   modelC ???               
-stockeCode:002414     stockeName:????                 curr:12.5500  high50.0500  low10.6300  modelC ???               
-stockeCode:002456     stockeName:???                  curr:5.4200   high23.3300  low4.6800   modelC ???               
-stockeCode:002481     stockeName:????                 curr:5.9400   high20.1200  low5.2900   modelC ???               
-stockeCode:002607     stockeName:????                 curr:4.6500   high43.1000  low3.9200   modelP ??                
-stockeCode:002647     stockeName:????                 curr:6.6800   high64.2500  low5.7400   modelJ ???               
-stockeCode:002798     stockeName:????                 curr:7.4000   high44.4300  low6.5700   modelC ???               
-stockeCode:002950     stockeName:????                 curr:11.9500  high38.2000  low10.3600  modelC ???               
-stockeCode:002953     stockeName:????                 curr:11.9100  high37.1800  low10.2300  modelC ???               
-stockeCode:002969     stockeName:????                 curr:3.8700   high11.9900  low3.6000   modelC ???               
-
-
-20230407: 
-------------------------------------���з�����ʼ------------------------------------------
-stockeCode:600143     stockeName:�𷢿Ƽ�                 curr:9.2900   high30.4800  low7.7900  
-stockeCode:600165     stockeName:��������                 curr:4.4000   high13.4300  low4.1100  
-stockeCode:600340     stockeName:�����Ҹ�                 curr:2.4800   high28.0500  low2.1900  
-stockeCode:600606     stockeName:�̵ؿع�                 curr:2.9700   high9.4500   low2.6200  
-stockeCode:600733     stockeName:��������                 curr:5.9900   high19.2000  low5.3300  
-stockeCode:600812     stockeName:������ҩ                 curr:6.1000   high18.8300  low5.6000  
-stockeCode:600918     stockeName:��̩֤ȯ                 curr:6.8400   high21.6300  low6.3100  
-stockeCode:601686     stockeName:�ѷ�����                 curr:6.0900   high18.5200  low5.4100  
-stockeCode:601696     stockeName:����֤ȯ                 curr:11.0700  high38.7000  low10.3800 
-stockeCode:601933     stockeName:���Գ���                 curr:3.3900   high11.2000  low2.9500  
-stockeCode:603079     stockeName:ʥ������                 curr:12.9800  high47.1700  low11.0900 
-stockeCode:603158     stockeName:�����ɷ�                 curr:7.0000   high28.1000  low6.5300  
-stockeCode:603226     stockeName:���ָ��                 curr:5.2500   high20.6700  low4.7400  
-stockeCode:603336     stockeName:��Թ���                 curr:6.5100   high20.3000  low5.8100  
-stockeCode:603536     stockeName:�ݷ�ʳƷ                 curr:6.5000   high23.2000  low6.0900  
-stockeCode:603601     stockeName:�����Ƽ�                 curr:5.3500   high17.5600  low5.0600  
-stockeCode:603759     stockeName:����ɷ�                 curr:9.6100   high41.8700  low8.5500  
-stockeCode:603815     stockeName:�����ɷ�                 curr:7.7300   high25.5200  low6.9400  
-stockeCode:605100     stockeName:����ɷ�                 curr:14.3900  high75.5800  low12.0900 
-------------------------------------���з�������------------------------------------------
-------------------------------------���з�����ʼ------------------------------------------
-stockeCode:000038     stockeName:*ST��ͨ                curr:4.1900   high17.2700  low3.6300   modelL �������              
-stockeCode:000671     stockeName:�� �� ��                curr:1.7000   high8.1700   low1.6000   modelK ���ز�               
-stockeCode:000718     stockeName:��������                 curr:3.1000   high11.0900  low2.8700   modelK ���ز�               
-stockeCode:000806     stockeName:*ST����                curr:1.1600   high3.6200   low1.0800   modelC ����ҵ               
-stockeCode:000889     stockeName:ST�м�                 curr:1.9500   high14.4000  low1.7400   modelI ��Ϣ����              
-stockeCode:001209     stockeName:���˹ɷ�                 curr:14.2300  high47.3300  low12.6000  modelC ����ҵ               
-stockeCode:002075     stockeName:ɳ�ֹɷ�                 curr:4.1200   high16.7000  low3.7300   modelC ����ҵ               
-stockeCode:002084     stockeName:��Ÿס��                 curr:4.4100   high14.1900  low3.6900   modelC ����ҵ               
-stockeCode:002124     stockeName:���ʳƷ                 curr:5.8400   high20.7000  low5.3800   modelA ũ������              
-stockeCode:002127     stockeName:�ϼ�����                 curr:4.9600   high23.8100  low4.2200   modelL �������              
-stockeCode:002187     stockeName:��ٹɷ�                 curr:6.8000   high20.6400  low6.3100   modelF ��������              
-stockeCode:002375     stockeName:���ùɷ�                 curr:4.7600   high16.1500  low4.2500   modelE ����ҵ               
-stockeCode:002382     stockeName:����ҽ��                 curr:7.9400   high37.8800  low7.3500   modelC ����ҵ               
-stockeCode:002414     stockeName:�ߵº���                 curr:12.4500  high50.0500  low10.6300  modelC ����ҵ               
-stockeCode:002456     stockeName:ŷ�ƹ�                  curr:5.3700   high23.3300  low4.6800   modelC ����ҵ               
-stockeCode:002481     stockeName:˫��ʳƷ                 curr:5.9400   high20.1200  low5.2900   modelC ����ҵ               
-stockeCode:002607     stockeName:�й�����                 curr:4.6900   high43.1000  low3.9200   modelP ����                
-stockeCode:002647     stockeName:�ʶ��ع�                 curr:6.7500   high64.2500  low5.7400   modelJ ����ҵ               
-stockeCode:002751     stockeName:*ST����                curr:7.7400   high28.9000  low6.4600   modelC ����ҵ               
-stockeCode:002781     stockeName:*ST����                curr:2.7000   high23.2000  low2.5700   modelE ����ҵ               
-stockeCode:002798     stockeName:��ŷ�Ҿ�                 curr:7.5400   high44.4300  low6.5700   modelC ����ҵ               
-stockeCode:002950     stockeName:����ҽ��                 curr:12.0600  high38.2000  low10.3600  modelC ����ҵ               
-stockeCode:002969     stockeName:������װ                 curr:3.9100   high11.9900  low3.6000   modelC ����ҵ               
-------------------------------------���з�������------------------------------------------
 
 20230407: 
 ------------------------------------沪市分析开始------------------------------------------
@@ -407,348 +316,336 @@ stockeCode:003018     stockeName:金富科技                 curr:9.2200   high
 
 20230418: 
 ------------------------------------创业板分析开始------------------------------------------
-------------------------------------创业板分析结束------------------------------------------
-
-20230418: 
-------------------------------------创业板分析开始------------------------------------------
-------------------------------------创业板分析结束------------------------------------------
-
-20230418: 
-------------------------------------创业板分析开始------------------------------------------
-------------------------------------创业板分析结束------------------------------------------
-
-20230418: 
-------------------------------------创业板分析开始------------------------------------------
-stockeCode:300006     stockeName:莱美药业                 curr:3.8900   high11.3400  low3.6200  
-stockeCode:300013     stockeName:新宁物流                 curr:4.0600   high10.1100  low3.4900  
-stockeCode:300016     stockeName:北陆药业                 curr:7.0200   high14.0800  low6.0900  
-stockeCode:300021     stockeName:大禹节水                 curr:4.8100   high7.0500   low4.3600  
-stockeCode:300030     stockeName:阳普医疗                 curr:6.9300   high16.4500  low6.0400  
-stockeCode:300040     stockeName:九洲集团                 curr:5.9800   high12.6900  low5.6000  
-stockeCode:300067     stockeName:安诺其                  curr:3.1000   high6.7000   low3.0000  
-stockeCode:300069     stockeName:金利华电                 curr:12.7900  high28.7000  low12.1200 
-stockeCode:300072     stockeName:海新能科                 curr:3.9100   high8.7700   low3.6100  
-stockeCode:300091     stockeName:金通灵                  curr:3.5300   high6.8600   low3.2500  
-stockeCode:300103     stockeName:达刚控股                 curr:6.7300   high14.5700  low5.9500  
-stockeCode:300108     stockeName:*ST吉药                curr:1.6200   high6.4000   low1.6200  
-stockeCode:300116     stockeName:保力新                  curr:1.6500   high4.9200   low1.4500  
-stockeCode:300122     stockeName:智飞生物                 curr:82.9000  high225.4500 low77.1600 
-stockeCode:300127     stockeName:银河磁体                 curr:16.7400  high31.7700  low14.1800 
-stockeCode:300142     stockeName:沃森生物                 curr:35.0700  high93.7800  low31.8600 
-stockeCode:300145     stockeName:中金环境                 curr:2.8200   high5.0600   low2.4000  
-stockeCode:300155     stockeName:安居宝                  curr:5.2400   high10.7700  low4.4700  
-stockeCode:300163     stockeName:先锋新材                 curr:3.2000   high6.1700   low2.9500  
-stockeCode:300169     stockeName:天晟新材                 curr:4.1000   high12.7500  low3.9000  
-stockeCode:300172     stockeName:中电环保                 curr:4.5400   high8.7900   low4.2000  
-stockeCode:300173     stockeName:福能东方                 curr:4.3700   high10.0000  low3.7900  
-stockeCode:300175     stockeName:朗源股份                 curr:3.5600   high9.3000   low3.4000  
-stockeCode:300180     stockeName:华峰超纤                 curr:4.1300   high10.1500  low3.4700  
-stockeCode:300189     stockeName:神农科技                 curr:3.7700   high7.9200   low3.5400  
-stockeCode:300190     stockeName:维尔利                  curr:4.2100   high10.2400  low4.0300  
-stockeCode:300198     stockeName:纳川股份                 curr:2.7400   high6.8600   low2.6700  
-stockeCode:300210     stockeName:森远股份                 curr:2.9600   high6.5400   low2.9000  
-stockeCode:300214     stockeName:日科化学                 curr:6.5200   high11.1900  low6.1900  
-stockeCode:300215     stockeName:电科院                  curr:5.3400   high11.7900  low5.2500  
-stockeCode:300220     stockeName:金运激光                 curr:11.3800  high58.0200  low10.1600 
-stockeCode:300221     stockeName:银禧科技                 curr:5.2000   high11.0900  low4.4000  
-stockeCode:300225     stockeName:金力泰                  curr:6.1900   high24.5700  low5.2000  
-stockeCode:300230     stockeName:永利股份                 curr:3.8300   high6.9100   low3.3000  
-stockeCode:300237     stockeName:美晨生态                 curr:2.0800   high4.9100   low2.0300  
-stockeCode:300244     stockeName:迪安诊断                 curr:27.8000  high50.4900  low23.7600 
-stockeCode:300255     stockeName:常山药业                 curr:5.5500   high8.9000   low5.1900  
-stockeCode:300259     stockeName:新天科技                 curr:3.6400   high6.4600   low3.2300  
-stockeCode:300262     stockeName:巴安水务                 curr:2.6500   high6.5300   low2.4100  
-stockeCode:300267     stockeName:尔康制药                 curr:3.3700   high6.0800   low2.9600  
-stockeCode:300276     stockeName:三丰智能                 curr:3.4800   high10.4800  low3.0300  
-stockeCode:300281     stockeName:金明精机                 curr:5.1100   high8.6500   low4.6100  
-stockeCode:300284     stockeName:苏交科                  curr:6.1800   high10.6000  low5.1700  
-stockeCode:300289     stockeName:利德曼                  curr:5.8400   high9.5200   low5.1200  
-stockeCode:300297     stockeName:*ST蓝盾                curr:0.8200   high8.5100   low0.8100  
-stockeCode:300301     stockeName:*ST长方                curr:1.7900   high8.3000   low1.5100  
-stockeCode:300326     stockeName:凯利泰                  curr:7.4200   high30.6900  low6.4100  
-stockeCode:300328     stockeName:宜安科技                 curr:6.6600   high16.3000  low5.9800  
-stockeCode:300330     stockeName:*ST计通                curr:5.4200   high14.4600  low5.1600  
-stockeCode:300335     stockeName:迪森股份                 curr:4.7600   high8.9600   low4.0200  
-stockeCode:300375     stockeName:鹏翎股份                 curr:3.5800   high6.8800   low3.4000  
-stockeCode:300381     stockeName:溢多利                  curr:9.0100   high17.1300  low7.6100  
-stockeCode:300385     stockeName:雪浪环境                 curr:6.0500   high12.3800  low5.5300  
-stockeCode:300387     stockeName:富邦股份                 curr:6.6200   high12.0300  low5.7000  
-stockeCode:300388     stockeName:节能国祯                 curr:7.1000   high11.6800  low6.0100  
-stockeCode:300391     stockeName:长药控股                 curr:8.1800   high23.6600  low8.1500  
-stockeCode:300392     stockeName:*ST腾信                curr:2.2800   high13.2000  low2.0500  
-stockeCode:300401     stockeName:花园生物                 curr:13.4200  high20.7900  low12.0900 
-stockeCode:300405     stockeName:科隆股份                 curr:5.1900   high16.1800  low4.9700  
-stockeCode:300411     stockeName:金盾股份                 curr:6.5300   high15.6600  low5.9800  
-stockeCode:300412     stockeName:迦南科技                 curr:5.3600   high24.8200  low5.3500  
-stockeCode:300422     stockeName:博世科                  curr:5.9400   high13.6300  low5.4700  
-stockeCode:300427     stockeName:红相股份                 curr:12.1100  high32.8000  low11.6500 
-stockeCode:300436     stockeName:广生堂                  curr:32.8500  high58.5100  low27.8200 
-stockeCode:300441     stockeName:鲍斯股份                 curr:5.7200   high13.5500  low5.4100  
-stockeCode:300450     stockeName:先导智能                 curr:39.0700  high98.0000  low34.8000 
-stockeCode:300457     stockeName:赢合科技                 curr:19.2800  high51.5200  low16.1200 
-stockeCode:300463     stockeName:迈克生物                 curr:18.5300  high63.1600  low15.7700 
-stockeCode:300473     stockeName:德尔股份                 curr:16.2200  high32.0100  low14.0400 
-stockeCode:300482     stockeName:万孚生物                 curr:29.9000  high105.5200 low28.3800 
-stockeCode:300483     stockeName:首华燃气                 curr:13.3700  high39.7000  low11.8700 
-stockeCode:300485     stockeName:赛升药业                 curr:11.4800  high26.6100  low10.5100 
-stockeCode:300486     stockeName:东杰智能                 curr:8.4600   high28.5000  low7.2100  
-stockeCode:300507     stockeName:苏奥传感                 curr:6.2800   high18.8000  low5.5400  
-stockeCode:300526     stockeName:*ST中潜                curr:5.8400   high144.9000 low4.9400  
-stockeCode:300527     stockeName:中船应急                 curr:7.5100   high15.7400  low6.3900  
-stockeCode:300529     stockeName:健帆生物                 curr:31.6800  high121.6000 low29.5900 
-stockeCode:300535     stockeName:达威股份                 curr:13.4200  high19.5200  low11.3700 
-stockeCode:300543     stockeName:朗科智能                 curr:9.6000   high23.5700  low8.1800  
-stockeCode:300555     stockeName:ST路通                 curr:6.7800   high16.0800  low6.0200  
-stockeCode:300568     stockeName:星源材质                 curr:18.7200  high58.9600  low17.0300 
-stockeCode:300569     stockeName:天能重工                 curr:8.3800   high22.5800  low7.4900  
-stockeCode:300575     stockeName:中旗股份                 curr:18.3100  high52.4000  low16.3700 
-stockeCode:300577     stockeName:开润股份                 curr:15.2700  high39.0000  low13.1400 
-stockeCode:300587     stockeName:天铁股份                 curr:10.2700  high24.1300  low9.9300  
-stockeCode:300595     stockeName:欧普康视                 curr:34.7400  high133.8000 low29.7200 
-stockeCode:300599     stockeName:雄塑科技                 curr:7.4600   high16.2200  low7.1300  
-stockeCode:300610     stockeName:晨化股份                 curr:11.6300  high25.0300  low11.0600 
-stockeCode:300611     stockeName:美力科技                 curr:8.2300   high15.6900  low7.5400  
-stockeCode:300618     stockeName:寒锐钴业                 curr:43.0100  high120.0000 low39.8800 
-stockeCode:300625     stockeName:三雄极光                 curr:12.4000  high21.1000  low10.4700 
-stockeCode:300628     stockeName:亿联网络                 curr:61.9000  high96.0100  low55.9800 
-stockeCode:300630     stockeName:普利制药                 curr:25.4200  high81.6900  low22.9900 
-stockeCode:300635     stockeName:中达安                  curr:12.8600  high31.2400  low12.5500 
-stockeCode:300639     stockeName:凯普生物                 curr:17.4700  high59.8300  low16.8300 
-stockeCode:300651     stockeName:金陵体育                 curr:22.6200  high56.7900  low19.9500 
-stockeCode:300658     stockeName:延江股份                 curr:7.9700   high45.2900  low7.5900  
-stockeCode:300664     stockeName:鹏鹞环保                 curr:5.5400   high14.3500  low4.9800  
-stockeCode:300665     stockeName:飞鹿股份                 curr:7.9200   high14.7300  low6.6600  
-stockeCode:300681     stockeName:英搏尔                  curr:31.1400  high128.4500 low27.5700 
-stockeCode:300686     stockeName:智动力                  curr:11.1700  high25.8000  low10.0500 
-stockeCode:300692     stockeName:中环环保                 curr:7.1000   high20.7000  low6.2900  
-stockeCode:300694     stockeName:蠡湖股份                 curr:9.8700   high18.2100  low8.3200  
-stockeCode:300695     stockeName:兆丰股份                 curr:45.2400  high79.6000  low42.8700 
-stockeCode:300696     stockeName:爱乐达                  curr:26.9600  high67.2000  low24.6700 
-stockeCode:300702     stockeName:天宇股份                 curr:25.2000  high127.0000 low21.4300 
-stockeCode:300720     stockeName:海川智能                 curr:11.8500  high34.5000  low9.9700  
-stockeCode:300721     stockeName:怡达股份                 curr:18.4700  high64.5100  low17.0200 
-stockeCode:300725     stockeName:药石科技                 curr:75.6300  high209.3000 low66.5700 
-stockeCode:300742     stockeName:越博动力                 curr:8.7300   high53.7000  low8.1800  
-stockeCode:300759     stockeName:康龙化成                 curr:55.6400  high233.6600 low46.8500 
-stockeCode:300767     stockeName:震安科技                 curr:38.8000  high132.3200 low37.9900 
-stockeCode:300771     stockeName:智莱科技                 curr:13.8900  high66.0000  low11.9000 
-stockeCode:300774     stockeName:倍杰特                  curr:12.9900  high23.3600  low11.2100 
-stockeCode:300783     stockeName:三只松鼠                 curr:19.2800  high90.0000  low16.8400 
-stockeCode:300796     stockeName:贝斯美                  curr:12.6200  high27.3200  low12.6200 
-stockeCode:300798     stockeName:锦鸡股份                 curr:6.3600   high20.8200  low5.9200  
-stockeCode:300800     stockeName:力合科技                 curr:13.7900  high75.8400  low11.5500 
-stockeCode:300801     stockeName:泰和科技                 curr:18.0700  high34.4500  low17.5200 
-stockeCode:300806     stockeName:斯迪克                  curr:23.6300  high75.8000  low21.6000 
-stockeCode:300815     stockeName:玉禾田                  curr:17.6800  high149.4000 low14.9900 
-stockeCode:300818     stockeName:耐普矿机                 curr:20.9900  high56.0000  low20.9900 
-stockeCode:300819     stockeName:聚杰微纤                 curr:13.7000  high58.0500  low13.4700 
-stockeCode:300823     stockeName:建科机械                 curr:17.3700  high47.0000  low16.0000 
-stockeCode:300825     stockeName:阿尔特                  curr:12.5500  high37.4800  low10.8900 
-stockeCode:300828     stockeName:锐新科技                 curr:14.0600  high45.1500  low13.6300 
-stockeCode:300829     stockeName:金丹科技                 curr:22.9800  high122.3800 low21.2000 
-stockeCode:300834     stockeName:星辉环材                 curr:25.8400  high50.5000  low24.8100 
-stockeCode:300849     stockeName:锦盛新材                 curr:11.1100  high36.7000  low10.0000 
-stockeCode:300854     stockeName:中兰环保                 curr:16.1000  high36.0900  low15.1600 
-stockeCode:300861     stockeName:美畅股份                 curr:50.0300  high98.4400  low43.6800 
-stockeCode:300865     stockeName:大宏立                  curr:20.6600  high90.8000  low17.4200 
-stockeCode:300867     stockeName:圣元环保                 curr:19.4600  high71.4500  low16.7300 
-stockeCode:300868     stockeName:杰美特                  curr:17.4100  high86.0800  low15.1200 
-stockeCode:300869     stockeName:康泰医学                 curr:23.9800  high168.9900 low20.5600 
-stockeCode:300877     stockeName:金春股份                 curr:15.8900  high104.0000 low14.7700 
-stockeCode:300883     stockeName:龙利得                  curr:6.1300   high25.0100  low5.6900  
-stockeCode:300885     stockeName:海昌新材                 curr:9.2000   high62.5200  low8.5000  
-stockeCode:300886     stockeName:华业香料                 curr:23.3000  high91.8000  low21.1400 
-stockeCode:300888     stockeName:稳健医疗                 curr:63.9000  high209.3100 low54.0700 
-stockeCode:300892     stockeName:品渥食品                 curr:24.2700  high83.5000  low20.9900 
-stockeCode:300901     stockeName:中胤时尚                 curr:9.5400   high41.3300  low8.2500  
-stockeCode:300903     stockeName:科翔股份                 curr:12.4800  high74.6100  low11.1700 
-stockeCode:300906     stockeName:日月明                  curr:23.5400  high68.3000  low20.2000 
-stockeCode:300907     stockeName:康平科技                 curr:19.1100  high68.0000  low16.3600 
-stockeCode:300916     stockeName:朗特智能                 curr:40.4100  high164.8500 low35.0000 
-stockeCode:300919     stockeName:中伟股份                 curr:67.0200  high209.6800 low64.7700 
-stockeCode:300920     stockeName:润阳科技                 curr:17.1500  high50.9000  low15.4800 
-stockeCode:300923     stockeName:研奥股份                 curr:22.4300  high49.8600  low18.7000 
-stockeCode:300928     stockeName:华安鑫创                 curr:37.7500  high87.0300  low34.0300 
-stockeCode:300929     stockeName:华骐环保                 curr:11.7900  high50.7100  low11.2200 
-stockeCode:300931     stockeName:通用电梯                 curr:7.3400   high21.4800  low6.4500  
-stockeCode:300932     stockeName:三友联众                 curr:15.5100  high53.7600  low14.3100 
-stockeCode:300937     stockeName:药易购                  curr:27.8500  high120.8000 low23.5000 
-stockeCode:300940     stockeName:南极光                  curr:18.9600  high106.0300 low17.5600 
-stockeCode:300942     stockeName:易瑞生物                 curr:15.3800  high40.8000  low15.3800 
-stockeCode:300946     stockeName:恒而达                  curr:32.6200  high141.6000 low28.0000 
-stockeCode:300948     stockeName:冠中生态                 curr:14.6200  high71.6900  low12.2500 
-stockeCode:300956     stockeName:英力股份                 curr:15.1300  high44.1800  low13.5200 
-stockeCode:300957     stockeName:贝泰妮                  curr:120.2800 high284.5000 low115.7000
-stockeCode:300958     stockeName:建工修复                 curr:19.7200  high60.0000  low16.7600 
-stockeCode:300960     stockeName:通业科技                 curr:18.4000  high47.4100  low16.0200 
-stockeCode:300966     stockeName:共同药业                 curr:25.6000  high70.1500  low22.6600 
-stockeCode:300975     stockeName:商络电子                 curr:7.1800   high30.1200  low6.0700  
-stockeCode:300978     stockeName:东箭科技                 curr:11.9000  high30.1800  low10.0300 
-stockeCode:300979     stockeName:华利集团                 curr:48.1900  high115.1000 low40.5900 
-stockeCode:300983     stockeName:尤安设计                 curr:32.0000  high130.0600 low27.7000 
-stockeCode:300984     stockeName:金沃股份                 curr:22.6100  high72.2000  low20.3700 
-stockeCode:300988     stockeName:津荣天宇                 curr:21.0200  high62.0000  low18.4400 
-stockeCode:300992     stockeName:泰福泵业                 curr:18.9200  high49.9800  low17.4700 
-stockeCode:300993     stockeName:玉马遮阳                 curr:12.9100  high34.7400  low11.5000 
-stockeCode:300994     stockeName:久祺股份                 curr:21.3100  high57.2800  low18.8500 
-stockeCode:300999     stockeName:金龙鱼                  curr:43.0300  high145.0000 low38.2500 
-stockeCode:301000     stockeName:肇民科技                 curr:30.4300  high94.0100  low25.9600 
-stockeCode:301002     stockeName:崧盛股份                 curr:21.9700  high102.8800 low18.3600 
-stockeCode:301003     stockeName:江苏博云                 curr:23.5000  high83.0000  low22.6000 
-stockeCode:301007     stockeName:德迈仕                  curr:11.7100  high30.2500  low10.8500 
-stockeCode:301008     stockeName:宏昌科技                 curr:26.7700  high72.6700  low22.6400 
-stockeCode:301009     stockeName:可靠股份                 curr:11.7200  high34.7000  low10.0800 
-stockeCode:301019     stockeName:宁波色母                 curr:20.3200  high57.9300  low19.0900 
-stockeCode:301022     stockeName:海泰科                  curr:31.4400  high71.9500  low26.4900 
-stockeCode:301023     stockeName:江南奕帆                 curr:41.4000  high104.2000 low35.4400 
-stockeCode:301024     stockeName:霍普股份                 curr:23.6600  high72.3200  low21.8000 
-stockeCode:301027     stockeName:华蓝集团                 curr:14.2000  high33.8800  low13.2800 
-stockeCode:301028     stockeName:东亚机械                 curr:10.4600  high17.8200  low8.8700  
-stockeCode:301029     stockeName:怡合达                  curr:55.5900  high109.8000 low50.9800 
-stockeCode:301032     stockeName:新柴股份                 curr:8.0300   high15.6500  low7.3600  
-stockeCode:301036     stockeName:双乐股份                 curr:19.3500  high50.6600  low16.5800 
-stockeCode:301037     stockeName:保立佳                  curr:17.0500  high31.0000  low15.9900 
-stockeCode:301038     stockeName:深水规院                 curr:16.1000  high30.0200  low14.7100 
-stockeCode:301040     stockeName:中环海陆                 curr:22.1900  high54.2600  low18.7700 
-stockeCode:301043     stockeName:绿岛风                  curr:24.9900  high40.8300  low21.7000 
-stockeCode:301049     stockeName:超越科技                 curr:21.4700  high42.3000  low19.5500 
-stockeCode:301050     stockeName:雷电微力                 curr:75.5800  high296.4000 low69.4800 
-stockeCode:301053     stockeName:远信工业                 curr:23.2600  high40.8000  low20.0700 
-stockeCode:301055     stockeName:张小泉                  curr:14.2000  high34.0900  low13.4500 
-stockeCode:301056     stockeName:森赫股份                 curr:8.1600   high14.8200  low7.3700  
-stockeCode:301057     stockeName:汇隆新材                 curr:17.8200  high27.3000  low16.3600 
-stockeCode:301059     stockeName:金三江                  curr:14.2100  high31.6500  low13.7000 
-stockeCode:301061     stockeName:匠心家居                 curr:31.7300  high86.1500  low27.9000 
-stockeCode:301065     stockeName:本立科技                 curr:32.0400  high78.3700  low30.7800 
-stockeCode:301069     stockeName:凯盛新材                 curr:26.9000  high70.5300  low26.7200 
-stockeCode:301071     stockeName:力量钻石                 curr:92.3500  high353.0000 low90.0100 
-stockeCode:301072     stockeName:中捷精工                 curr:22.0800  high59.2000  low20.3500 
-stockeCode:301076     stockeName:新瀚新材                 curr:21.9300  high46.9000  low21.3500 
-stockeCode:301077     stockeName:星华新材                 curr:22.2200  high73.8000  low19.0400 
-stockeCode:301078     stockeName:孩子王                  curr:11.5900  high27.1800  low9.9400  
-stockeCode:301080     stockeName:百普赛斯                 curr:109.8700 high247.0100 low101.1000
-stockeCode:301081     stockeName:严牌股份                 curr:11.9900  high28.8000  low11.2000 
-stockeCode:301088     stockeName:戎美股份                 curr:17.2500  high28.7900  low15.2800 
-stockeCode:301098     stockeName:金埔园林                 curr:17.4400  high40.0800  low15.7200 
-stockeCode:301100     stockeName:风光股份                 curr:22.2800  high54.1800  low19.1200 
-stockeCode:301105     stockeName:鸿铭股份                 curr:37.4600  high40.8400  low37.1400 
-stockeCode:301106     stockeName:骏成科技                 curr:31.0700  high43.6800  low26.5600 
-stockeCode:301107     stockeName:瑜欣电子                 curr:29.1600  high56.1500  low26.4300 
-stockeCode:301109     stockeName:军信股份                 curr:16.9100  high31.2700  low14.9200 
-stockeCode:301111     stockeName:粤万年青                 curr:20.4100  high57.0000  low18.9000 
-stockeCode:301112     stockeName:信邦智能                 curr:33.1100  high58.7600  low27.9500 
-stockeCode:301113     stockeName:雅艺科技                 curr:26.5500  high66.6600  low25.7700 
-stockeCode:301115     stockeName:建科股份                 curr:25.3400  high35.4000  low24.0600 
-stockeCode:301116     stockeName:益客食品                 curr:15.3000  high35.6200  low14.3500 
-stockeCode:301118     stockeName:恒光股份                 curr:31.7300  high70.9600  low29.4100 
-stockeCode:301121     stockeName:紫建电子                 curr:54.1500  high117.9100 low49.5600 
-stockeCode:301122     stockeName:采纳股份                 curr:50.2600  high89.1300  low47.1000 
-stockeCode:301123     stockeName:奕东电子                 curr:24.7300  high49.3300  low20.8800 
-stockeCode:301125     stockeName:腾亚精工                 curr:24.7800  high40.5600  low23.3800 
-stockeCode:301126     stockeName:达嘉维康                 curr:15.1700  high36.4400  low13.7800 
-stockeCode:301127     stockeName:天源环保                 curr:10.1900  high23.2700  low9.5500  
-stockeCode:301128     stockeName:强瑞技术                 curr:28.9400  high70.2800  low24.3700 
-stockeCode:301130     stockeName:西点药业                 curr:29.0700  high82.8000  low28.6000 
-stockeCode:301131     stockeName:聚赛龙                  curr:38.2000  high77.3000  low34.6100 
-stockeCode:301132     stockeName:满坤科技                 curr:28.6400  high44.8300  low24.0900 
-stockeCode:301133     stockeName:金钟股份                 curr:22.2900  high56.9300  low18.9000 
-stockeCode:301137     stockeName:哈焊华通                 curr:15.4900  high28.0000  low13.0100 
-stockeCode:301139     stockeName:元道通信                 curr:29.1600  high37.8700  low24.8900 
-stockeCode:301141     stockeName:中科磁业                 curr:45.0000  high46.0000  low40.5500 
-stockeCode:301148     stockeName:嘉戎技术                 curr:22.3800  high39.5500  low20.2000 
-stockeCode:301149     stockeName:隆华新材                 curr:10.8400  high27.7600  low10.6400 
-stockeCode:301150     stockeName:中一科技                 curr:65.7700  high128.9000 low64.1400 
-stockeCode:301151     stockeName:冠龙节能                 curr:18.3300  high28.3100  low16.8200 
-stockeCode:301152     stockeName:天力锂能                 curr:46.8200  high68.6900  low45.1800 
-stockeCode:301156     stockeName:美农生物                 curr:23.2300  high37.6000  low21.5400 
-stockeCode:301157     stockeName:华塑科技                 curr:60.7000  high84.7700  low60.3500 
-stockeCode:301158     stockeName:德石股份                 curr:18.0800  high41.4000  low15.8100 
-stockeCode:301160     stockeName:翔楼新材                 curr:35.9200  high58.3300  low34.6600 
-stockeCode:301163     stockeName:宏德股份                 curr:29.4300  high68.5200  low26.1200 
-stockeCode:301166     stockeName:优宁维                  curr:50.2400  high132.0000 low43.5100 
-stockeCode:301167     stockeName:建研设计                 curr:25.3200  high46.2700  low22.2900 
-stockeCode:301175     stockeName:中科环保                 curr:6.2900   high9.9200   low5.7200  
-stockeCode:301176     stockeName:逸豪新材                 curr:19.1700  high22.0000  low17.2900 
-stockeCode:301177     stockeName:迪阿股份                 curr:48.4800  high165.0100 low40.4500 
-stockeCode:301182     stockeName:凯旺科技                 curr:22.0900  high48.3400  low18.4100 
-stockeCode:301186     stockeName:超达装备                 curr:29.3900  high61.1000  low25.8200 
-stockeCode:301187     stockeName:欧圣电气                 curr:18.7300  high36.9300  low16.7800 
-stockeCode:301190     stockeName:善水科技                 curr:18.3900  high37.4600  low17.9800 
-stockeCode:301192     stockeName:泰祥股份                 curr:18.9500  high35.4000  low18.3100 
-stockeCode:301196     stockeName:唯科科技                 curr:34.6000  high60.1900  low32.7600 
-stockeCode:301197     stockeName:工大科雅                 curr:24.1800  high37.4800  low20.4600 
-stockeCode:301201     stockeName:诚达药业                 curr:46.1100  high143.2200 low44.0200 
-stockeCode:301203     stockeName:国泰环保                 curr:37.4800  high40.6100  low37.2000 
-stockeCode:301206     stockeName:三元生物                 curr:32.9400  high128.0100 low32.5300 
-stockeCode:301209     stockeName:联合化学                 curr:25.7300  high39.0000  low22.7400 
-stockeCode:301216     stockeName:万凯新材                 curr:26.8200  high35.7000  low25.3500 
-stockeCode:301217     stockeName:铜冠铜箔                 curr:13.2700  high21.7000  low11.9600 
-stockeCode:301219     stockeName:腾远钴业                 curr:60.7600  high190.6800 low58.9100 
-stockeCode:301220     stockeName:亚香股份                 curr:39.5900  high48.9800  low33.1200 
-stockeCode:301222     stockeName:浙江恒威                 curr:28.5400  high59.1800  low24.2200 
-stockeCode:301223     stockeName:中荣股份                 curr:19.7600  high24.5300  low18.7900 
-stockeCode:301226     stockeName:祥明智能                 curr:34.4700  high48.6200  low28.7800 
-stockeCode:301227     stockeName:森鹰窗业                 curr:29.3600  high38.5700  low24.7600 
-stockeCode:301228     stockeName:实朴检测                 curr:16.3500  high47.2200  low15.2600 
-stockeCode:301229     stockeName:纽泰格                  curr:28.4000  high65.2200  low28.1700 
-stockeCode:301233     stockeName:盛帮股份                 curr:39.2400  high57.1300  low34.3200 
-stockeCode:301234     stockeName:五洲医疗                 curr:30.2200  high46.9400  low28.9300 
-stockeCode:301235     stockeName:华康医疗                 curr:35.2900  high60.8100  low31.3000 
-stockeCode:301237     stockeName:和顺科技                 curr:31.2500  high53.5000  low29.0900 
-stockeCode:301238     stockeName:瑞泰新材                 curr:23.9200  high40.0900  low22.4900 
-stockeCode:301246     stockeName:宏源药业                 curr:36.4200  high41.9500  low36.0800 
-stockeCode:301255     stockeName:通力科技                 curr:34.9100  high41.2500  low34.2500 
-stockeCode:301256     stockeName:华融化学                 curr:8.6600   high15.9900  low7.6600  
-stockeCode:301258     stockeName:富士莱                  curr:41.7600  high66.5200  low38.3100 
-stockeCode:301259     stockeName:艾布鲁                  curr:19.6200  high50.6000  low18.9900 
-stockeCode:301260     stockeName:格力博                  curr:26.3100  high40.1700  low26.1500 
-stockeCode:301265     stockeName:华新环保                 curr:12.7800  high16.0700  low12.0600 
-stockeCode:301273     stockeName:瑞晨环保                 curr:38.3900  high49.7500  low32.0200 
-stockeCode:301276     stockeName:嘉曼服饰                 curr:24.6700  high34.0300  low22.8500 
-stockeCode:301277     stockeName:新天地                  curr:31.4800  high42.1600  low27.9600 
-stockeCode:301278     stockeName:快可电子                 curr:87.2000  high128.2400 low79.7200 
-stockeCode:301280     stockeName:珠城科技                 curr:54.8300  high60.6500  low47.3600 
-stockeCode:301281     stockeName:科源制药                 curr:36.5200  high40.0000  low36.5000 
-stockeCode:301282     stockeName:金禄电子                 curr:30.1200  high40.1200  low25.4200 
-stockeCode:301283     stockeName:聚胶股份                 curr:45.5600  high62.4000  low41.0700 
-stockeCode:301285     stockeName:鸿日达                  curr:14.7100  high21.7000  low13.0700 
-stockeCode:301288     stockeName:清研环境                 curr:17.1600  high38.1900  low16.5100 
-stockeCode:301289     stockeName:国缆检测                 curr:46.7300  high57.5300  low40.4900 
-stockeCode:301290     stockeName:东星医疗                 curr:37.7200  high53.1200  low36.9300 
-stockeCode:301296     stockeName:新巨丰                  curr:16.3900  high19.6200  low14.1100 
-stockeCode:301298     stockeName:东利机械                 curr:15.7400  high33.3300  low15.0600 
-stockeCode:301300     stockeName:远翔新材                 curr:31.7400  high57.7000  low30.2000 
-stockeCode:301301     stockeName:川宁生物                 curr:9.2700   high10.4000  low8.5400  
-stockeCode:301303     stockeName:真兰仪表                 curr:23.9000  high34.0100  low23.5300 
-stockeCode:301306     stockeName:西测测试                 curr:40.8500  high59.1900  low38.0000 
-stockeCode:301309     stockeName:万得凯                  curr:28.7400  high33.6900  low25.0200 
-stockeCode:301311     stockeName:昆船智能                 curr:18.9300  high25.5000  low17.7300 
-stockeCode:301314     stockeName:科瑞思                  curr:70.6000  high87.0000  low68.4800 
-stockeCode:301317     stockeName:鑫磊股份                 curr:24.6000  high27.9100  low23.3800 
-stockeCode:301321     stockeName:翰博高新                 curr:20.2100  high34.0000  low18.6200 
-stockeCode:301322     stockeName:绿通科技                 curr:125.3700 high145.5000 low114.9100
-stockeCode:301327     stockeName:华宝新能                 curr:145.9700 high279.0000 low139.4400
-stockeCode:301331     stockeName:恩威医药                 curr:38.0900  high57.3000  low38.0900 
-stockeCode:301335     stockeName:天元宠物                 curr:37.2400  high44.8800  low35.1800 
-stockeCode:301345     stockeName:涛涛车业                 curr:50.4000  high58.6600  low50.2300 
-stockeCode:301349     stockeName:信德新材                 curr:90.0800  high160.4000 low87.9600 
-stockeCode:301356     stockeName:天振股份                 curr:49.1800  high56.0900  low45.2600 
-stockeCode:301358     stockeName:湖南裕能                 curr:46.3000  high53.6000  low40.7900 
-stockeCode:301359     stockeName:东南电子                 curr:24.2800  high30.2300  low21.9400 
-stockeCode:301361     stockeName:众智科技                 curr:23.3800  high32.2100  low22.2400 
-stockeCode:301363     stockeName:美好医疗                 curr:42.1900  high49.8800  low36.3600 
-stockeCode:301365     stockeName:矩阵股份                 curr:28.3900  high33.9900  low25.2500 
-stockeCode:301373     stockeName:凌玮科技                 curr:35.3000  high43.3500  low34.1400 
-stockeCode:301377     stockeName:鼎泰高科                 curr:22.3500  high33.7800  low19.6000 
-stockeCode:301378     stockeName:通达海                  curr:111.6000 high123.3600 low95.9000 
-stockeCode:301379     stockeName:天山电子                 curr:28.6300  high32.6300  low25.4900 
-stockeCode:301386     stockeName:未来电器                 curr:24.6200  high28.3000  low24.0700 
-stockeCode:301388     stockeName:欣灵电气                 curr:24.8400  high33.6600  low23.3500 
-stockeCode:301389     stockeName:隆扬电子                 curr:20.1500  high24.3800  low18.2800 
-stockeCode:301391     stockeName:卡莱特                  curr:98.2000  high125.5000 low83.3000 
-stockeCode:301398     stockeName:星源卓镁                 curr:32.8700  high41.7000  low29.5800 
-stockeCode:301408     stockeName:华人健康                 curr:19.4500  high25.3100  low19.2100 
-stockeCode:301419     stockeName:阿莱德                  curr:35.8500  high54.7800  low35.8500 
-stockeCode:301429     stockeName:N森泰股份                curr:33.0500  high33.0500  low33.0500 
-stockeCode:301439     stockeName:泓淋电力                 curr:18.0800  high24.3000  low17.9100 
+stockeCode:300006     stockeName:莱美药业                 curr:3.8900   high11.3400  low3.6200   modelC 制造业               
+stockeCode:300013     stockeName:新宁物流                 curr:4.0600   high10.1100  low3.4900   modelG 运输仓储              
+stockeCode:300016     stockeName:北陆药业                 curr:7.0200   high14.0800  low6.0900   modelC 制造业               
+stockeCode:300021     stockeName:大禹节水                 curr:4.8100   high7.0500   low4.3600   modelC 制造业               
+stockeCode:300030     stockeName:阳普医疗                 curr:6.9300   high16.4500  low6.0400   modelC 制造业               
+stockeCode:300040     stockeName:九洲集团                 curr:5.9800   high12.6900  low5.6000   modelC 制造业               
+stockeCode:300067     stockeName:安诺其                  curr:3.1000   high6.7000   low3.0000   modelC 制造业               
+stockeCode:300069     stockeName:金利华电                 curr:12.7900  high28.7000  low12.1200  modelC 制造业               
+stockeCode:300072     stockeName:海新能科                 curr:3.9100   high8.7700   low3.6100   modelC 制造业               
+stockeCode:300091     stockeName:金通灵                  curr:3.5300   high6.8600   low3.2500   modelC 制造业               
+stockeCode:300103     stockeName:达刚控股                 curr:6.7300   high14.5700  low5.9500   modelN 公共环保              
+stockeCode:300108     stockeName:*ST吉药                curr:1.6200   high6.4000   low1.6200   modelC 制造业               
+stockeCode:300116     stockeName:保力新                  curr:1.6500   high4.9200   low1.4500   modelC 制造业               
+stockeCode:300122     stockeName:智飞生物                 curr:82.9000  high225.4500 low77.1600  modelC 制造业               
+stockeCode:300127     stockeName:银河磁体                 curr:16.7400  high31.7700  low14.1800  modelC 制造业               
+stockeCode:300142     stockeName:沃森生物                 curr:35.0700  high93.7800  low31.8600  modelC 制造业               
+stockeCode:300145     stockeName:中金环境                 curr:2.8200   high5.0600   low2.4000   modelC 制造业               
+stockeCode:300155     stockeName:安居宝                  curr:5.2400   high10.7700  low4.4700   modelC 制造业               
+stockeCode:300163     stockeName:先锋新材                 curr:3.2000   high6.1700   low2.9500   modelC 制造业               
+stockeCode:300169     stockeName:天晟新材                 curr:4.1000   high12.7500  low3.9000   modelC 制造业               
+stockeCode:300172     stockeName:中电环保                 curr:4.5400   high8.7900   low4.2000   modelN 公共环保              
+stockeCode:300173     stockeName:福能东方                 curr:4.3700   high10.0000  low3.7900   modelC 制造业               
+stockeCode:300175     stockeName:朗源股份                 curr:3.5600   high9.3000   low3.4000   modelC 制造业               
+stockeCode:300180     stockeName:华峰超纤                 curr:4.1300   high10.1500  low3.4700   modelC 制造业               
+stockeCode:300189     stockeName:神农科技                 curr:3.7700   high7.9200   low3.5400   modelA 农林牧渔              
+stockeCode:300190     stockeName:维尔利                  curr:4.2100   high10.2400  low4.0300   modelN 公共环保              
+stockeCode:300198     stockeName:纳川股份                 curr:2.7400   high6.8600   low2.6700   modelC 制造业               
+stockeCode:300210     stockeName:森远股份                 curr:2.9600   high6.5400   low2.9000   modelC 制造业               
+stockeCode:300214     stockeName:日科化学                 curr:6.5200   high11.1900  low6.1900   modelC 制造业               
+stockeCode:300215     stockeName:电科院                  curr:5.3400   high11.7900  low5.2500   modelM 科研服务              
+stockeCode:300220     stockeName:金运激光                 curr:11.3800  high58.0200  low10.1600  modelC 制造业               
+stockeCode:300221     stockeName:银禧科技                 curr:5.2000   high11.0900  low4.4000   modelC 制造业               
+stockeCode:300225     stockeName:金力泰                  curr:6.1900   high24.5700  low5.2000   modelC 制造业               
+stockeCode:300230     stockeName:永利股份                 curr:3.8300   high6.9100   low3.3000   modelC 制造业               
+stockeCode:300237     stockeName:美晨生态                 curr:2.0800   high4.9100   low2.0300   modelE 建筑业               
+stockeCode:300244     stockeName:迪安诊断                 curr:27.8000  high50.4900  low23.7600  modelQ 卫生                
+stockeCode:300255     stockeName:常山药业                 curr:5.5500   high8.9000   low5.1900   modelC 制造业               
+stockeCode:300259     stockeName:新天科技                 curr:3.6400   high6.4600   low3.2300   modelC 制造业               
+stockeCode:300262     stockeName:巴安水务                 curr:2.6500   high6.5300   low2.4100   modelN 公共环保              
+stockeCode:300267     stockeName:尔康制药                 curr:3.3700   high6.0800   low2.9600   modelC 制造业               
+stockeCode:300276     stockeName:三丰智能                 curr:3.4800   high10.4800  low3.0300   modelC 制造业               
+stockeCode:300281     stockeName:金明精机                 curr:5.1100   high8.6500   low4.6100   modelC 制造业               
+stockeCode:300284     stockeName:苏交科                  curr:6.1800   high10.6000  low5.1700   modelM 科研服务              
+stockeCode:300289     stockeName:利德曼                  curr:5.8400   high9.5200   low5.1200   modelC 制造业               
+stockeCode:300297     stockeName:*ST蓝盾                curr:0.8200   high8.5100   low0.8100   modelI 信息技术              
+stockeCode:300301     stockeName:*ST长方                curr:1.7900   high8.3000   low1.5100   modelC 制造业               
+stockeCode:300326     stockeName:凯利泰                  curr:7.4200   high30.6900  low6.4100   modelC 制造业               
+stockeCode:300328     stockeName:宜安科技                 curr:6.6600   high16.3000  low5.9800   modelC 制造业               
+stockeCode:300330     stockeName:*ST计通                curr:5.4200   high14.4600  low5.1600   modelI 信息技术              
+stockeCode:300335     stockeName:迪森股份                 curr:4.7600   high8.9600   low4.0200   modelD 水电煤气              
+stockeCode:300375     stockeName:鹏翎股份                 curr:3.5800   high6.8800   low3.4000   modelC 制造业               
+stockeCode:300381     stockeName:溢多利                  curr:9.0100   high17.1300  low7.6100   modelC 制造业               
+stockeCode:300385     stockeName:雪浪环境                 curr:6.0500   high12.3800  low5.5300   modelC 制造业               
+stockeCode:300387     stockeName:富邦股份                 curr:6.6200   high12.0300  low5.7000   modelC 制造业               
+stockeCode:300388     stockeName:节能国祯                 curr:7.1000   high11.6800  low6.0100   modelN 公共环保              
+stockeCode:300391     stockeName:长药控股                 curr:8.1800   high23.6600  low8.1500   modelC 制造业               
+stockeCode:300392     stockeName:*ST腾信                curr:2.2800   high13.2000  low2.0500   modelI 信息技术              
+stockeCode:300401     stockeName:花园生物                 curr:13.4200  high20.7900  low12.0900  modelC 制造业               
+stockeCode:300405     stockeName:科隆股份                 curr:5.1900   high16.1800  low4.9700   modelC 制造业               
+stockeCode:300411     stockeName:金盾股份                 curr:6.5300   high15.6600  low5.9800   modelC 制造业               
+stockeCode:300412     stockeName:迦南科技                 curr:5.3600   high24.8200  low5.3500   modelC 制造业               
+stockeCode:300422     stockeName:博世科                  curr:5.9400   high13.6300  low5.4700   modelN 公共环保              
+stockeCode:300427     stockeName:红相股份                 curr:12.1100  high32.8000  low11.6500  modelC 制造业               
+stockeCode:300436     stockeName:广生堂                  curr:32.8500  high58.5100  low27.8200  modelC 制造业               
+stockeCode:300441     stockeName:鲍斯股份                 curr:5.7200   high13.5500  low5.4100   modelC 制造业               
+stockeCode:300450     stockeName:先导智能                 curr:39.0700  high98.0000  low34.8000  modelC 制造业               
+stockeCode:300457     stockeName:赢合科技                 curr:19.2800  high51.5200  low16.1200  modelC 制造业               
+stockeCode:300463     stockeName:迈克生物                 curr:18.5300  high63.1600  low15.7700  modelC 制造业               
+stockeCode:300473     stockeName:德尔股份                 curr:16.2200  high32.0100  low14.0400  modelC 制造业               
+stockeCode:300482     stockeName:万孚生物                 curr:29.9000  high105.5200 low28.3800  modelC 制造业               
+stockeCode:300483     stockeName:首华燃气                 curr:13.3700  high39.7000  low11.8700  modelB 采矿业               
+stockeCode:300485     stockeName:赛升药业                 curr:11.4800  high26.6100  low10.5100  modelC 制造业               
+stockeCode:300486     stockeName:东杰智能                 curr:8.4600   high28.5000  low7.2100   modelC 制造业               
+stockeCode:300507     stockeName:苏奥传感                 curr:6.2800   high18.8000  low5.5400   modelC 制造业               
+stockeCode:300526     stockeName:*ST中潜                curr:5.8400   high144.9000 low4.9400   modelC 制造业               
+stockeCode:300527     stockeName:中船应急                 curr:7.5100   high15.7400  low6.3900   modelC 制造业               
+stockeCode:300529     stockeName:健帆生物                 curr:31.6800  high121.6000 low29.5900  modelC 制造业               
+stockeCode:300535     stockeName:达威股份                 curr:13.4200  high19.5200  low11.3700  modelC 制造业               
+stockeCode:300543     stockeName:朗科智能                 curr:9.6000   high23.5700  low8.1800   modelC 制造业               
+stockeCode:300555     stockeName:ST路通                 curr:6.7800   high16.0800  low6.0200   modelC 制造业               
+stockeCode:300568     stockeName:星源材质                 curr:18.7200  high58.9600  low17.0300  modelC 制造业               
+stockeCode:300569     stockeName:天能重工                 curr:8.3800   high22.5800  low7.4900   modelC 制造业               
+stockeCode:300575     stockeName:中旗股份                 curr:18.3100  high52.4000  low16.3700  modelC 制造业               
+stockeCode:300577     stockeName:开润股份                 curr:15.2700  high39.0000  low13.1400  modelC 制造业               
+stockeCode:300587     stockeName:天铁股份                 curr:10.2700  high24.1300  low9.9300   modelC 制造业               
+stockeCode:300595     stockeName:欧普康视                 curr:34.7400  high133.8000 low29.7200  modelC 制造业               
+stockeCode:300599     stockeName:雄塑科技                 curr:7.4600   high16.2200  low7.1300   modelC 制造业               
+stockeCode:300610     stockeName:晨化股份                 curr:11.6300  high25.0300  low11.0600  modelC 制造业               
+stockeCode:300611     stockeName:美力科技                 curr:8.2300   high15.6900  low7.5400   modelC 制造业               
+stockeCode:300618     stockeName:寒锐钴业                 curr:43.0100  high120.0000 low39.8800  modelC 制造业               
+stockeCode:300625     stockeName:三雄极光                 curr:12.4000  high21.1000  low10.4700  modelC 制造业               
+stockeCode:300628     stockeName:亿联网络                 curr:61.9000  high96.0100  low55.9800  modelC 制造业               
+stockeCode:300630     stockeName:普利制药                 curr:25.4200  high81.6900  low22.9900  modelC 制造业               
+stockeCode:300635     stockeName:中达安                  curr:12.8600  high31.2400  low12.5500  modelM 科研服务              
+stockeCode:300639     stockeName:凯普生物                 curr:17.4700  high59.8300  low16.8300  modelC 制造业               
+stockeCode:300651     stockeName:金陵体育                 curr:22.6200  high56.7900  low19.9500  modelC 制造业               
+stockeCode:300658     stockeName:延江股份                 curr:7.9700   high45.2900  low7.5900   modelC 制造业               
+stockeCode:300664     stockeName:鹏鹞环保                 curr:5.5400   high14.3500  low4.9800   modelN 公共环保              
+stockeCode:300665     stockeName:飞鹿股份                 curr:7.9200   high14.7300  low6.6600   modelC 制造业               
+stockeCode:300681     stockeName:英搏尔                  curr:31.1400  high128.4500 low27.5700  modelC 制造业               
+stockeCode:300686     stockeName:智动力                  curr:11.1700  high25.8000  low10.0500  modelC 制造业               
+stockeCode:300692     stockeName:中环环保                 curr:7.1000   high20.7000  low6.2900   modelN 公共环保              
+stockeCode:300694     stockeName:蠡湖股份                 curr:9.8700   high18.2100  low8.3200   modelC 制造业               
+stockeCode:300695     stockeName:兆丰股份                 curr:45.2400  high79.6000  low42.8700  modelC 制造业               
+stockeCode:300696     stockeName:爱乐达                  curr:26.9600  high67.2000  low24.6700  modelC 制造业               
+stockeCode:300702     stockeName:天宇股份                 curr:25.2000  high127.0000 low21.4300  modelC 制造业               
+stockeCode:300720     stockeName:海川智能                 curr:11.8500  high34.5000  low9.9700   modelC 制造业               
+stockeCode:300721     stockeName:怡达股份                 curr:18.4700  high64.5100  low17.0200  modelC 制造业               
+stockeCode:300725     stockeName:药石科技                 curr:75.6300  high209.3000 low66.5700  modelC 制造业               
+stockeCode:300742     stockeName:越博动力                 curr:8.7300   high53.7000  low8.1800   modelC 制造业               
+stockeCode:300759     stockeName:康龙化成                 curr:55.6400  high233.6600 low46.8500  modelM 科研服务              
+stockeCode:300767     stockeName:震安科技                 curr:38.8000  high132.3200 low37.9900  modelC 制造业               
+stockeCode:300771     stockeName:智莱科技                 curr:13.8900  high66.0000  low11.9000  modelC 制造业               
+stockeCode:300774     stockeName:倍杰特                  curr:12.9900  high23.3600  low11.2100  modelN 公共环保              
+stockeCode:300783     stockeName:三只松鼠                 curr:19.2800  high90.0000  low16.8400  modelF 批发零售              
+stockeCode:300796     stockeName:贝斯美                  curr:12.6200  high27.3200  low12.6200  modelC 制造业               
+stockeCode:300798     stockeName:锦鸡股份                 curr:6.3600   high20.8200  low5.9200   modelC 制造业               
+stockeCode:300800     stockeName:力合科技                 curr:13.7900  high75.8400  low11.5500  modelC 制造业               
+stockeCode:300801     stockeName:泰和科技                 curr:18.0700  high34.4500  low17.5200  modelC 制造业               
+stockeCode:300806     stockeName:斯迪克                  curr:23.6300  high75.8000  low21.6000  modelC 制造业               
+stockeCode:300815     stockeName:玉禾田                  curr:17.6800  high149.4000 low14.9900  modelN 公共环保              
+stockeCode:300818     stockeName:耐普矿机                 curr:20.9900  high56.0000  low20.9900  modelC 制造业               
+stockeCode:300819     stockeName:聚杰微纤                 curr:13.7000  high58.0500  low13.4700  modelC 制造业               
+stockeCode:300823     stockeName:建科机械                 curr:17.3700  high47.0000  low16.0000  modelC 制造业               
+stockeCode:300825     stockeName:阿尔特                  curr:12.5500  high37.4800  low10.8900  modelM 科研服务              
+stockeCode:300828     stockeName:锐新科技                 curr:14.0600  high45.1500  low13.6300  modelC 制造业               
+stockeCode:300829     stockeName:金丹科技                 curr:22.9800  high122.3800 low21.2000  modelC 制造业               
+stockeCode:300834     stockeName:星辉环材                 curr:25.8400  high50.5000  low24.8100  modelC 制造业               
+stockeCode:300849     stockeName:锦盛新材                 curr:11.1100  high36.7000  low10.0000  modelC 制造业               
+stockeCode:300854     stockeName:中兰环保                 curr:16.1000  high36.0900  low15.1600  modelN 公共环保              
+stockeCode:300861     stockeName:美畅股份                 curr:50.0300  high98.4400  low43.6800  modelC 制造业               
+stockeCode:300865     stockeName:大宏立                  curr:20.6600  high90.8000  low17.4200  modelC 制造业               
+stockeCode:300867     stockeName:圣元环保                 curr:19.4600  high71.4500  low16.7300  modelN 公共环保              
+stockeCode:300868     stockeName:杰美特                  curr:17.4100  high86.0800  low15.1200  modelC 制造业               
+stockeCode:300869     stockeName:康泰医学                 curr:23.9800  high168.9900 low20.5600  modelC 制造业               
+stockeCode:300877     stockeName:金春股份                 curr:15.8900  high104.0000 low14.7700  modelC 制造业               
+stockeCode:300883     stockeName:龙利得                  curr:6.1300   high25.0100  low5.6900   modelC 制造业               
+stockeCode:300885     stockeName:海昌新材                 curr:9.2000   high62.5200  low8.5000   modelC 制造业               
+stockeCode:300886     stockeName:华业香料                 curr:23.3000  high91.8000  low21.1400  modelC 制造业               
+stockeCode:300888     stockeName:稳健医疗                 curr:63.9000  high209.3100 low54.0700  modelC 制造业               
+stockeCode:300892     stockeName:品渥食品                 curr:24.2700  high83.5000  low20.9900  modelF 批发零售              
+stockeCode:300901     stockeName:中胤时尚                 curr:9.5400   high41.3300  low8.2500   modelM 科研服务              
+stockeCode:300903     stockeName:科翔股份                 curr:12.4800  high74.6100  low11.1700  modelC 制造业               
+stockeCode:300906     stockeName:日月明                  curr:23.5400  high68.3000  low20.2000  modelC 制造业               
+stockeCode:300907     stockeName:康平科技                 curr:19.1100  high68.0000  low16.3600  modelC 制造业               
+stockeCode:300916     stockeName:朗特智能                 curr:40.4100  high164.8500 low35.0000  modelC 制造业               
+stockeCode:300919     stockeName:中伟股份                 curr:67.0200  high209.6800 low64.7700  modelC 制造业               
+stockeCode:300920     stockeName:润阳科技                 curr:17.1500  high50.9000  low15.4800  modelC 制造业               
+stockeCode:300923     stockeName:研奥股份                 curr:22.4300  high49.8600  low18.7000  modelC 制造业               
+stockeCode:300928     stockeName:华安鑫创                 curr:37.7500  high87.0300  low34.0300  modelM 科研服务              
+stockeCode:300929     stockeName:华骐环保                 curr:11.7900  high50.7100  low11.2200  modelN 公共环保              
+stockeCode:300931     stockeName:通用电梯                 curr:7.3400   high21.4800  low6.4500   modelC 制造业               
+stockeCode:300932     stockeName:三友联众                 curr:15.5100  high53.7600  low14.3100  modelC 制造业               
+stockeCode:300937     stockeName:药易购                  curr:27.8500  high120.8000 low23.5000  modelF 批发零售              
+stockeCode:300940     stockeName:南极光                  curr:18.9600  high106.0300 low17.5600  modelC 制造业               
+stockeCode:300942     stockeName:易瑞生物                 curr:15.3800  high40.8000  low15.3800  modelC 制造业               
+stockeCode:300946     stockeName:恒而达                  curr:32.6200  high141.6000 low28.0000  modelC 制造业               
+stockeCode:300948     stockeName:冠中生态                 curr:14.6200  high71.6900  low12.2500  modelN 公共环保              
+stockeCode:300956     stockeName:英力股份                 curr:15.1300  high44.1800  low13.5200  modelC 制造业               
+stockeCode:300957     stockeName:贝泰妮                  curr:120.2800 high284.5000 low115.7000 modelC 制造业               
+stockeCode:300958     stockeName:建工修复                 curr:19.7200  high60.0000  low16.7600  modelN 公共环保              
+stockeCode:300960     stockeName:通业科技                 curr:18.4000  high47.4100  low16.0200  modelC 制造业               
+stockeCode:300966     stockeName:共同药业                 curr:25.6000  high70.1500  low22.6600  modelC 制造业               
+stockeCode:300975     stockeName:商络电子                 curr:7.1800   high30.1200  low6.0700   modelF 批发零售              
+stockeCode:300978     stockeName:东箭科技                 curr:11.9000  high30.1800  low10.0300  modelC 制造业               
+stockeCode:300979     stockeName:华利集团                 curr:48.1900  high115.1000 low40.5900  modelC 制造业               
+stockeCode:300983     stockeName:尤安设计                 curr:32.0000  high130.0600 low27.7000  modelM 科研服务              
+stockeCode:300984     stockeName:金沃股份                 curr:22.6100  high72.2000  low20.3700  modelC 制造业               
+stockeCode:300988     stockeName:津荣天宇                 curr:21.0200  high62.0000  low18.4400  modelC 制造业               
+stockeCode:300992     stockeName:泰福泵业                 curr:18.9200  high49.9800  low17.4700  modelC 制造业               
+stockeCode:300993     stockeName:玉马遮阳                 curr:12.9100  high34.7400  low11.5000  modelC 制造业               
+stockeCode:300994     stockeName:久祺股份                 curr:21.3100  high57.2800  low18.8500  modelC 制造业               
+stockeCode:300999     stockeName:金龙鱼                  curr:43.0300  high145.0000 low38.2500  modelC 制造业               
+stockeCode:301000     stockeName:肇民科技                 curr:30.4300  high94.0100  low25.9600  modelC 制造业               
+stockeCode:301002     stockeName:崧盛股份                 curr:21.9700  high102.8800 low18.3600  modelC 制造业               
+stockeCode:301003     stockeName:江苏博云                 curr:23.5000  high83.0000  low22.6000  modelC 制造业               
+stockeCode:301007     stockeName:德迈仕                  curr:11.7100  high30.2500  low10.8500  modelC 制造业               
+stockeCode:301008     stockeName:宏昌科技                 curr:26.7700  high72.6700  low22.6400  modelC 制造业               
+stockeCode:301009     stockeName:可靠股份                 curr:11.7200  high34.7000  low10.0800  modelC 制造业               
+stockeCode:301019     stockeName:宁波色母                 curr:20.3200  high57.9300  low19.0900  modelC 制造业               
+stockeCode:301022     stockeName:海泰科                  curr:31.4400  high71.9500  low26.4900  modelC 制造业               
+stockeCode:301023     stockeName:江南奕帆                 curr:41.4000  high104.2000 low35.4400  modelC 制造业               
+stockeCode:301024     stockeName:霍普股份                 curr:23.6600  high72.3200  low21.8000  modelM 科研服务              
+stockeCode:301027     stockeName:华蓝集团                 curr:14.2000  high33.8800  low13.2800  modelM 科研服务              
+stockeCode:301028     stockeName:东亚机械                 curr:10.4600  high17.8200  low8.8700   modelC 制造业               
+stockeCode:301029     stockeName:怡合达                  curr:55.5900  high109.8000 low50.9800  modelC 制造业               
+stockeCode:301032     stockeName:新柴股份                 curr:8.0300   high15.6500  low7.3600   modelC 制造业               
+stockeCode:301036     stockeName:双乐股份                 curr:19.3500  high50.6600  low16.5800  modelC 制造业               
+stockeCode:301037     stockeName:保立佳                  curr:17.0500  high31.0000  low15.9900  modelC 制造业               
+stockeCode:301038     stockeName:深水规院                 curr:16.1000  high30.0200  low14.7100  modelM 科研服务              
+stockeCode:301040     stockeName:中环海陆                 curr:22.1900  high54.2600  low18.7700  modelC 制造业               
+stockeCode:301043     stockeName:绿岛风                  curr:24.9900  high40.8300  low21.7000  modelC 制造业               
+stockeCode:301049     stockeName:超越科技                 curr:21.4700  high42.3000  low19.5500  modelN 公共环保              
+stockeCode:301050     stockeName:雷电微力                 curr:75.5800  high296.4000 low69.4800  modelC 制造业               
+stockeCode:301053     stockeName:远信工业                 curr:23.2600  high40.8000  low20.0700  modelC 制造业               
+stockeCode:301055     stockeName:张小泉                  curr:14.2000  high34.0900  low13.4500  modelC 制造业               
+stockeCode:301056     stockeName:森赫股份                 curr:8.1600   high14.8200  low7.3700   modelC 制造业               
+stockeCode:301057     stockeName:汇隆新材                 curr:17.8200  high27.3000  low16.3600  modelC 制造业               
+stockeCode:301059     stockeName:金三江                  curr:14.2100  high31.6500  low13.7000  modelC 制造业               
+stockeCode:301061     stockeName:匠心家居                 curr:31.7300  high86.1500  low27.9000  modelC 制造业               
+stockeCode:301065     stockeName:本立科技                 curr:32.0400  high78.3700  low30.7800  modelC 制造业               
+stockeCode:301069     stockeName:凯盛新材                 curr:26.9000  high70.5300  low26.7200  modelC 制造业               
+stockeCode:301071     stockeName:力量钻石                 curr:92.3500  high353.0000 low90.0100  modelC 制造业               
+stockeCode:301072     stockeName:中捷精工                 curr:22.0800  high59.2000  low20.3500  modelC 制造业               
+stockeCode:301076     stockeName:新瀚新材                 curr:21.9300  high46.9000  low21.3500  modelC 制造业               
+stockeCode:301077     stockeName:星华新材                 curr:22.2200  high73.8000  low19.0400  modelC 制造业               
+stockeCode:301078     stockeName:孩子王                  curr:11.5900  high27.1800  low9.9400   modelF 批发零售              
+stockeCode:301080     stockeName:百普赛斯                 curr:109.8700 high247.0100 low101.1000 modelM 科研服务              
+stockeCode:301081     stockeName:严牌股份                 curr:11.9900  high28.8000  low11.2000  modelC 制造业               
+stockeCode:301088     stockeName:戎美股份                 curr:17.2500  high28.7900  low15.2800  modelF 批发零售              
+stockeCode:301098     stockeName:金埔园林                 curr:17.4400  high40.0800  low15.7200  modelE 建筑业               
+stockeCode:301100     stockeName:风光股份                 curr:22.2800  high54.1800  low19.1200  modelC 制造业               
+stockeCode:301105     stockeName:鸿铭股份                 curr:37.4600  high40.8400  low37.1400  modelC 制造业               
+stockeCode:301106     stockeName:骏成科技                 curr:31.0700  high43.6800  low26.5600  modelC 制造业               
+stockeCode:301107     stockeName:瑜欣电子                 curr:29.1600  high56.1500  low26.4300  modelC 制造业               
+stockeCode:301109     stockeName:军信股份                 curr:16.9100  high31.2700  low14.9200  modelN 公共环保              
+stockeCode:301111     stockeName:粤万年青                 curr:20.4100  high57.0000  low18.9000  modelC 制造业               
+stockeCode:301112     stockeName:信邦智能                 curr:33.1100  high58.7600  low27.9500  modelC 制造业               
+stockeCode:301113     stockeName:雅艺科技                 curr:26.5500  high66.6600  low25.7700  modelC 制造业               
+stockeCode:301115     stockeName:建科股份                 curr:25.3400  high35.4000  low24.0600  modelM 科研服务              
+stockeCode:301116     stockeName:益客食品                 curr:15.3000  high35.6200  low14.3500  modelC 制造业               
+stockeCode:301118     stockeName:恒光股份                 curr:31.7300  high70.9600  low29.4100  modelC 制造业               
+stockeCode:301121     stockeName:紫建电子                 curr:54.1500  high117.9100 low49.5600  modelC 制造业               
+stockeCode:301122     stockeName:采纳股份                 curr:50.2600  high89.1300  low47.1000  modelC 制造业               
+stockeCode:301123     stockeName:奕东电子                 curr:24.7300  high49.3300  low20.8800  modelC 制造业               
+stockeCode:301125     stockeName:腾亚精工                 curr:24.7800  high40.5600  low23.3800  modelC 制造业               
+stockeCode:301126     stockeName:达嘉维康                 curr:15.1700  high36.4400  low13.7800  modelF 批发零售              
+stockeCode:301127     stockeName:天源环保                 curr:10.1900  high23.2700  low9.5500   modelN 公共环保              
+stockeCode:301128     stockeName:强瑞技术                 curr:28.9400  high70.2800  low24.3700  modelC 制造业               
+stockeCode:301130     stockeName:西点药业                 curr:29.0700  high82.8000  low28.6000  modelC 制造业               
+stockeCode:301131     stockeName:聚赛龙                  curr:38.2000  high77.3000  low34.6100  modelC 制造业               
+stockeCode:301132     stockeName:满坤科技                 curr:28.6400  high44.8300  low24.0900  modelC 制造业               
+stockeCode:301133     stockeName:金钟股份                 curr:22.2900  high56.9300  low18.9000  modelC 制造业               
+stockeCode:301137     stockeName:哈焊华通                 curr:15.4900  high28.0000  low13.0100  modelC 制造业               
+stockeCode:301139     stockeName:元道通信                 curr:29.1600  high37.8700  low24.8900  modelI 信息技术              
+stockeCode:301141     stockeName:中科磁业                 curr:45.0000  high46.0000  low40.5500  modelC 制造业               
+stockeCode:301148     stockeName:嘉戎技术                 curr:22.3800  high39.5500  low20.2000  modelN 公共环保              
+stockeCode:301149     stockeName:隆华新材                 curr:10.8400  high27.7600  low10.6400  modelC 制造业               
+stockeCode:301150     stockeName:中一科技                 curr:65.7700  high128.9000 low64.1400  modelC 制造业               
+stockeCode:301151     stockeName:冠龙节能                 curr:18.3300  high28.3100  low16.8200  modelC 制造业               
+stockeCode:301152     stockeName:天力锂能                 curr:46.8200  high68.6900  low45.1800  modelC 制造业               
+stockeCode:301156     stockeName:美农生物                 curr:23.2300  high37.6000  low21.5400  modelC 制造业               
+stockeCode:301157     stockeName:华塑科技                 curr:60.7000  high84.7700  low60.3500  modelC 制造业               
+stockeCode:301158     stockeName:德石股份                 curr:18.0800  high41.4000  low15.8100  modelC 制造业               
+stockeCode:301160     stockeName:翔楼新材                 curr:35.9200  high58.3300  low34.6600  modelC 制造业               
+stockeCode:301163     stockeName:宏德股份                 curr:29.4300  high68.5200  low26.1200  modelC 制造业               
+stockeCode:301166     stockeName:优宁维                  curr:50.2400  high132.0000 low43.5100  modelF 批发零售              
+stockeCode:301167     stockeName:建研设计                 curr:25.3200  high46.2700  low22.2900  modelM 科研服务              
+stockeCode:301175     stockeName:中科环保                 curr:6.2900   high9.9200   low5.7200   modelN 公共环保              
+stockeCode:301176     stockeName:逸豪新材                 curr:19.1700  high22.0000  low17.2900  modelC 制造业               
+stockeCode:301177     stockeName:迪阿股份                 curr:48.4800  high165.0100 low40.4500  modelF 批发零售              
+stockeCode:301182     stockeName:凯旺科技                 curr:22.0900  high48.3400  low18.4100  modelC 制造业               
+stockeCode:301186     stockeName:超达装备                 curr:29.3900  high61.1000  low25.8200  modelC 制造业               
+stockeCode:301187     stockeName:欧圣电气                 curr:18.7300  high36.9300  low16.7800  modelC 制造业               
+stockeCode:301190     stockeName:善水科技                 curr:18.3900  high37.4600  low17.9800  modelC 制造业               
+stockeCode:301192     stockeName:泰祥股份                 curr:18.9500  high35.4000  low18.3100  modelC 制造业               
+stockeCode:301196     stockeName:唯科科技                 curr:34.6000  high60.1900  low32.7600  modelC 制造业               
+stockeCode:301197     stockeName:工大科雅                 curr:24.1800  high37.4800  low20.4600  modelI 信息技术              
+stockeCode:301201     stockeName:诚达药业                 curr:46.1100  high143.2200 low44.0200  modelC 制造业               
+stockeCode:301203     stockeName:国泰环保                 curr:37.4800  high40.6100  low37.2000  modelN 公共环保              
+stockeCode:301206     stockeName:三元生物                 curr:32.9400  high128.0100 low32.5300  modelC 制造业               
+stockeCode:301209     stockeName:联合化学                 curr:25.7300  high39.0000  low22.7400  modelC 制造业               
+stockeCode:301216     stockeName:万凯新材                 curr:26.8200  high35.7000  low25.3500  modelC 制造业               
+stockeCode:301217     stockeName:铜冠铜箔                 curr:13.2700  high21.7000  low11.9600  modelC 制造业               
+stockeCode:301219     stockeName:腾远钴业                 curr:60.7600  high190.6800 low58.9100  modelC 制造业               
+stockeCode:301220     stockeName:亚香股份                 curr:39.5900  high48.9800  low33.1200  modelC 制造业               
+stockeCode:301222     stockeName:浙江恒威                 curr:28.5400  high59.1800  low24.2200  modelC 制造业               
+stockeCode:301223     stockeName:中荣股份                 curr:19.7600  high24.5300  low18.7900  modelC 制造业               
+stockeCode:301226     stockeName:祥明智能                 curr:34.4700  high48.6200  low28.7800  modelC 制造业               
+stockeCode:301227     stockeName:森鹰窗业                 curr:29.3600  high38.5700  low24.7600  modelC 制造业               
+stockeCode:301228     stockeName:实朴检测                 curr:16.3500  high47.2200  low15.2600  modelM 科研服务              
+stockeCode:301229     stockeName:纽泰格                  curr:28.4000  high65.2200  low28.1700  modelC 制造业               
+stockeCode:301233     stockeName:盛帮股份                 curr:39.2400  high57.1300  low34.3200  modelC 制造业               
+stockeCode:301234     stockeName:五洲医疗                 curr:30.2200  high46.9400  low28.9300  modelC 制造业               
+stockeCode:301235     stockeName:华康医疗                 curr:35.2900  high60.8100  low31.3000  modelM 科研服务              
+stockeCode:301237     stockeName:和顺科技                 curr:31.2500  high53.5000  low29.0900  modelC 制造业               
+stockeCode:301238     stockeName:瑞泰新材                 curr:23.9200  high40.0900  low22.4900  modelC 制造业               
+stockeCode:301246     stockeName:宏源药业                 curr:36.4200  high41.9500  low36.0800  modelC 制造业               
+stockeCode:301255     stockeName:通力科技                 curr:34.9100  high41.2500  low34.2500  modelC 制造业               
+stockeCode:301256     stockeName:华融化学                 curr:8.6600   high15.9900  low7.6600   modelC 制造业               
+stockeCode:301258     stockeName:富士莱                  curr:41.7600  high66.5200  low38.3100  modelC 制造业               
+stockeCode:301259     stockeName:艾布鲁                  curr:19.6200  high50.6000  low18.9900  modelN 公共环保              
+stockeCode:301260     stockeName:格力博                  curr:26.3100  high40.1700  low26.1500  modelC 制造业               
+stockeCode:301265     stockeName:华新环保                 curr:12.7800  high16.0700  low12.0600  modelC 制造业               
+stockeCode:301273     stockeName:瑞晨环保                 curr:38.3900  high49.7500  low32.0200  modelC 制造业               
+stockeCode:301276     stockeName:嘉曼服饰                 curr:24.6700  high34.0300  low22.8500  modelC 制造业               
+stockeCode:301277     stockeName:新天地                  curr:31.4800  high42.1600  low27.9600  modelC 制造业               
+stockeCode:301278     stockeName:快可电子                 curr:87.2000  high128.2400 low79.7200  modelC 制造业               
+stockeCode:301280     stockeName:珠城科技                 curr:54.8300  high60.6500  low47.3600  modelC 制造业               
+stockeCode:301281     stockeName:科源制药                 curr:36.5200  high40.0000  low36.5000  modelC 制造业               
+stockeCode:301282     stockeName:金禄电子                 curr:30.1200  high40.1200  low25.4200  modelC 制造业               
+stockeCode:301283     stockeName:聚胶股份                 curr:45.5600  high62.4000  low41.0700  modelC 制造业               
+stockeCode:301285     stockeName:鸿日达                  curr:14.7100  high21.7000  low13.0700  modelC 制造业               
+stockeCode:301288     stockeName:清研环境                 curr:17.1600  high38.1900  low16.5100  modelC 制造业               
+stockeCode:301289     stockeName:国缆检测                 curr:46.7300  high57.5300  low40.4900  modelM 科研服务              
+stockeCode:301290     stockeName:东星医疗                 curr:37.7200  high53.1200  low36.9300  modelC 制造业               
+stockeCode:301296     stockeName:新巨丰                  curr:16.3900  high19.6200  low14.1100  modelC 制造业               
+stockeCode:301298     stockeName:东利机械                 curr:15.7400  high33.3300  low15.0600  modelC 制造业               
+stockeCode:301300     stockeName:远翔新材                 curr:31.7400  high57.7000  low30.2000  modelC 制造业               
+stockeCode:301301     stockeName:川宁生物                 curr:9.2700   high10.4000  low8.5400   modelC 制造业               
+stockeCode:301303     stockeName:真兰仪表                 curr:23.9000  high34.0100  low23.5300  modelC 制造业               
+stockeCode:301306     stockeName:西测测试                 curr:40.8500  high59.1900  low38.0000  modelM 科研服务              
+stockeCode:301309     stockeName:万得凯                  curr:28.7400  high33.6900  low25.0200  modelC 制造业               
+stockeCode:301311     stockeName:昆船智能                 curr:18.9300  high25.5000  low17.7300  modelC 制造业               
+stockeCode:301314     stockeName:科瑞思                  curr:70.6000  high87.0000  low68.4800  modelC 制造业               
+stockeCode:301317     stockeName:鑫磊股份                 curr:24.6000  high27.9100  low23.3800  modelC 制造业               
+stockeCode:301321     stockeName:翰博高新                 curr:20.2100  high34.0000  low18.6200  modelC 制造业               
+stockeCode:301322     stockeName:绿通科技                 curr:125.3700 high145.5000 low114.9100 modelC 制造业               
+stockeCode:301327     stockeName:华宝新能                 curr:145.9700 high279.0000 low139.4400 modelC 制造业               
+stockeCode:301331     stockeName:恩威医药                 curr:38.0900  high57.3000  low38.0900  modelC 制造业               
+stockeCode:301335     stockeName:天元宠物                 curr:37.2400  high44.8800  low35.1800  modelC 制造业               
+stockeCode:301345     stockeName:涛涛车业                 curr:50.4000  high58.6600  low50.2300  modelC 制造业               
+stockeCode:301349     stockeName:信德新材                 curr:90.0800  high160.4000 low87.9600  modelC 制造业               
+stockeCode:301356     stockeName:天振股份                 curr:49.1800  high56.0900  low45.2600  modelC 制造业               
+stockeCode:301358     stockeName:湖南裕能                 curr:46.3000  high53.6000  low40.7900  modelC 制造业               
+stockeCode:301359     stockeName:东南电子                 curr:24.2800  high30.2300  low21.9400  modelC 制造业               
+stockeCode:301361     stockeName:众智科技                 curr:23.3800  high32.2100  low22.2400  modelC 制造业               
+stockeCode:301363     stockeName:美好医疗                 curr:42.1900  high49.8800  low36.3600  modelC 制造业               
+stockeCode:301365     stockeName:矩阵股份                 curr:28.3900  high33.9900  low25.2500  modelM 科研服务              
+stockeCode:301373     stockeName:凌玮科技                 curr:35.3000  high43.3500  low34.1400  modelC 制造业               
+stockeCode:301377     stockeName:鼎泰高科                 curr:22.3500  high33.7800  low19.6000  modelC 制造业               
+stockeCode:301378     stockeName:通达海                  curr:111.6000 high123.3600 low95.9000  modelI 信息技术              
+stockeCode:301379     stockeName:天山电子                 curr:28.6300  high32.6300  low25.4900  modelC 制造业               
+stockeCode:301386     stockeName:未来电器                 curr:24.6200  high28.3000  low24.0700  modelC 制造业               
+stockeCode:301388     stockeName:欣灵电气                 curr:24.8400  high33.6600  low23.3500  modelC 制造业               
+stockeCode:301389     stockeName:隆扬电子                 curr:20.1500  high24.3800  low18.2800  modelC 制造业               
+stockeCode:301391     stockeName:卡莱特                  curr:98.2000  high125.5000 low83.3000  modelC 制造业               
+stockeCode:301398     stockeName:星源卓镁                 curr:32.8700  high41.7000  low29.5800  modelC 制造业               
+stockeCode:301408     stockeName:华人健康                 curr:19.4500  high25.3100  low19.2100  modelF 批发零售              
+stockeCode:301419     stockeName:阿莱德                  curr:35.8500  high54.7800  low35.8500  modelC 制造业               
+stockeCode:301429     stockeName:N森泰股份                curr:33.0500  high33.0500  low33.0500  modelC 制造业               
+stockeCode:301439     stockeName:泓淋电力                 curr:18.0800  high24.3000  low17.9100  modelC 制造业               
 ------------------------------------创业板分析结束------------------------------------------

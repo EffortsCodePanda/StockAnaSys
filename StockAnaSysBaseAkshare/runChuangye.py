@@ -148,6 +148,7 @@ def getSpecStocks():
 			for row in results:
 				lowPrice = row[3]
 				stockName = row[1]
+				stockMode = row[7]
 				#print("沪市名称：%s" %stockName)
 				# 打印结果
 				#print ("lowPrice=%s" % lowPrice)
@@ -176,7 +177,7 @@ def getSpecStocks():
 		if (currPrice/lowPrice > 1.2):
 			continue
 
-		str = "stockeCode:%-10s stockeName:%-20s curr:%-8.4f high%-8.4f low%-8.4f" %(code,stockName,currPrice,highPrice,lowPrice)
+		str = "stockeCode:%-10s stockeName:%-20s curr:%-8.4f high%-8.4f low%-8.4f model%-20s" %(code,stockName,currPrice,highPrice,lowPrice,stockMode)
 		_file.write(str + '\n')
 		#print ("stockeCode:%-10s curr:%-8.4f high%-8.4f low%-8.4f" %(code,currPrice,highPrice,lowPrice))
 	_file.write('------------------------------------创业板分析结束------------------------------------------\n')
